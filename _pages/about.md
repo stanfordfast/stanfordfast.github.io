@@ -11,6 +11,7 @@ FAST is a program in which Stanford University graduate students mentor Future A
 
 # Stanford Mentors 2021-22
 
+<div style="text-align: center;">
 <div class="mentor-card" style="text-align: center;">
     <img src="/assets/images/2021-22/mentors/raj_balaji.jpg" />
     <p> <b>Raj Balaji</b> <br> Mechanical Engineering </p>
@@ -21,6 +22,8 @@ FAST is a program in which Stanford University graduate students mentor Future A
     <p> <b>Hannah Rosenblatt</b> <br> Developmental Biology </p>
     <p> Chief Operations Officer </p>
 </div>
+</div>
+
 <div class="mentor-card" style="text-align: center;">
     <img src="/assets/images/2021-22/mentors/alex_heyer.jpg" />
     <p> <b>Alex Heyer</b> <br> Chemistry </p>
@@ -47,7 +50,7 @@ FAST is a program in which Stanford University graduate students mentor Future A
     <p> James Lick Chief Program Officer </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2021-22/mentors/jasper_ainsworth.jpg" />
+    <img src="/assets/images/2021-22/mentors/placeholder.jpg" />
     <p> <b>Jasper Ainsworth</b> <br> Chemistry </p>
     <p> James Lick Inventory Officer </p>
 </div>
@@ -92,6 +95,11 @@ FAST is a program in which Stanford University graduate students mentor Future A
     <p> Diversity, Equity, & Inclusion Officer </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2021-22/mentors/melissa_nakamoto.jpg" />
+    <p> <b>Melissa Nakamoto</b> <br> Chemistry </p>
+    <p> Director of Communications </p>
+</div>
+<div class="mentor-card" style="text-align: center;">
     <img src="/assets/images/2021-22/mentors/nora_enright.jpg" />
     <p> <b>Nora Enright</b> <br> Bioengineering </p>
     <p> Director of Mentor Recruitment </p>
@@ -102,9 +110,9 @@ FAST is a program in which Stanford University graduate students mentor Future A
     <p> Director of Mentor Recruitment </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2021-22/mentors/melissa_nakamoto.jpg" />
-    <p> <b>Melissa Nakamoto</b> <br> Chemistry </p>
-    <p> Director of Communications </p>
+    <img src="/assets/images/2021-22/mentors/amanda_wiggenhorn.jpg" />
+    <p> <b>Amanda Wiggenhorn</b> <br> Chemistry </p>
+    <p> Teaching & Education Specialist </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
     <img src="/assets/images/2021-22/mentors/sahil_dagli.jpg" />
@@ -115,11 +123,6 @@ FAST is a program in which Stanford University graduate students mentor Future A
     <img src="/assets/images/2021-22/mentors/placeholder.jpg" />
     <p> <b>Lindsey Mehl</b> <br> Cancer Biology </p>
     <p> Workshops Coordinator </p>
-</div>
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2021-22/mentors/amanda_wiggenhorn.jpg" />
-    <p> <b>Amanda Wiggenhorn</b> <br> Chemistry </p>
-    <p> Teaching & Education Specialist </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
     <img src="/assets/images/2021-22/mentors/ruhi_sayana.jpg" />
@@ -137,6 +140,14 @@ FAST is a program in which Stanford University graduate students mentor Future A
 <div class="mentor-card" style="text-align: center;">
     <img src="/assets/images/2021-22/mentors/ashwin_balaji.jpg" />
     <p> <b>Ashwin Balaji</b> <br> Biophysics </p>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2021-22/mentors/placeholder.jpg" />
+    <p> <b>Caravaggio Caniglia</b> <br> Chemistry </p>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2021-22/mentors/placeholder.jpg" />
+    <p> <b>Christy Luong</b> <br> Materials Science </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
     <img src="/assets/images/2021-22/mentors/daria_wonderlick.jpg" />
@@ -212,6 +223,10 @@ FAST is a program in which Stanford University graduate students mentor Future A
 </div>
 <div class="mentor-card" style="text-align: center;">
     <img src="/assets/images/2021-22/mentors/placeholder.jpg" />
+    <p> <b>Kacie Nelson</b> <br> Chemistry </p>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2021-22/mentors/placeholder.jpg" />
     <p> <b>Khoi Tran</b> <br> Chemistry </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
@@ -259,6 +274,10 @@ FAST is a program in which Stanford University graduate students mentor Future A
     <p> <b>Nico Robalin</b> <br> Chemistry </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2021-22/mentors/placeholder.jpg" />
+    <p> <b>Niharika Gunturu</b> <br> Applied Physics </p>
+</div>
+<div class="mentor-card" style="text-align: center;">
     <img src="/assets/images/2021-22/mentors/savy_lu.jpg" />
     <p> <b>Qianyun "Savy" Lu</b> <br> Electrical Engineering </p>
 </div>
@@ -268,6 +287,10 @@ FAST is a program in which Stanford University graduate students mentor Future A
 </div>
 <div class="mentor-card" style="text-align: center;">
     <img src="/assets/images/2021-22/mentors/placeholder.jpg" />
+    <p> <b>Priya Nair</b> <br> Bioengineering </p>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2021-22/mentors/robert_dyro.jpg" />
     <p> <b>Robert Dyro</b> <br> Aeronautics & Astronautics </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
@@ -284,10 +307,14 @@ FAST is a program in which Stanford University graduate students mentor Future A
 </div>
 <div class="mentor-card" style="text-align: center;">
     <img src="/assets/images/2021-22/mentors/placeholder.jpg" />
+    <p> <b>Sebastian Toro Arana</b> <br> Biology </p>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2021-22/mentors/sedona_ewbank.jpg" />
     <p> <b>Sedona Ewbank</b> <br> Neurosciences IDP </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2021-22/mentors/placeholder.jpg" />
+    <img src="/assets/images/2021-22/mentors/shenandoah_wrobel.jpg" />
     <p> <b>Shenandoah Wrobel</b> <br> Bioengineering </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
@@ -295,11 +322,11 @@ FAST is a program in which Stanford University graduate students mentor Future A
     <p> <b>Sofia Wyetzner</b> <br> Computer Science </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2021-22/mentors/placeholder.jpg" />
+    <img src="/assets/images/2021-22/mentors/sophie_walton.jpg" />
     <p> <b>Sophie Walton</b> <br> Biophysics </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2021-22/mentors/placeholder.jpg" />
+    <img src="/assets/images/2021-22/mentors/suzanna_bennett.jpg" />
     <p> <b>Suzanna Bennett</b> <br> Molecular & Cellular Physiology </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
@@ -307,6 +334,6 @@ FAST is a program in which Stanford University graduate students mentor Future A
     <p> <b>Tina Deschene</b> <br> Chemistry </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2021-22/mentors/placeholder.jpg" />
+    <img src="/assets/images/2021-22/mentors/travis_lantz.jpg" />
     <p> <b>Travis Lantz</b> <br> Chemical & Systems Biology </p>
 </div>
