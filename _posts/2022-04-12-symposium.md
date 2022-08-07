@@ -3,9 +3,6 @@ title: "Symposium 2022"
 date: 2022-04-12
 layout: single
 classes: wide
-sidebar:
-  title: "Archive"
-  nav: archive
 categories:
   - 2021-22
 tags:
