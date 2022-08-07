@@ -1,6 +1,6 @@
 ---
 title: Para Padres
-permalink: /parents/es
+permalink: /parents/es/
 layout: single
 classes: wide
 sidebar:

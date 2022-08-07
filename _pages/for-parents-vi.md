@@ -1,6 +1,6 @@
 ---
 title: Dành cho phụ huynh
-permalink: /parents/vi
+permalink: /parents/vi/
 layout: single
 classes: wide
 sidebar:
