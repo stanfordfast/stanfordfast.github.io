@@ -20,3 +20,21 @@ about:
         url: /mentors/2020-21/
   - title: "Funding"
     url: /funding/
+
+for-parents:
+  - title: "For Parents"
+    url: /parents/
+  - title: "Para Padres"
+    url: /parents/es/
+  - title: "Dành cho phụ huynh"
+    url: /parents/vi/
+
+archive:
+  - title: "2021-22"
+    children:
+      - title: "Symposium"
+        url: /2021-22/symposium/
+      - title: "Session 6"
+        url: /2021-22/session-6/
+      - title: "Session 5"
+        url: /2021-22/session-5/

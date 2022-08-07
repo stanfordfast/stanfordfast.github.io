@@ -2,8 +2,7 @@
 title: Media Coverage
 permalink: /media/
 layout: single
-classes: wide
-author_profile: true
+classes: full-wide
 ---
 
-Will include media coverage of FAST (use splash layout)
+Coming soon: media coverage of FAST!

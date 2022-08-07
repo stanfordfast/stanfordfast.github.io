@@ -2,7 +2,6 @@
 title: Archive
 permalink: /archive/
 layout: categories
-classes: wide
+classes: full-wide
 entries_layout: grid
-author_profile: true
 ---

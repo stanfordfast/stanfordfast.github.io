@@ -2,7 +2,6 @@
 title: Archive by Tag
 permalink: /tags/
 layout: tags
-classes: wide
+classes: full-wide
 entries_layout: grid
-author_profile: true
 ---
