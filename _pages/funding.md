@@ -17,13 +17,13 @@ the Stanford School of Engineering,
 and the Stanford Haas Center for Public Service.
 
 <p align="center">
-    <img src="/assets/images/funding_logos/TomKat.jpeg" width="49%" /> 
+    <img src="/assets/images/funding_logos/StanfordBiosciences.png" width="49%" /> 
     <img src="/assets/images/funding_logos/StanfordVPGE.png" width="49%" /> <br>
     <img src="/assets/images/funding_logos/StanfordSoE.png" width="49%" /> 
     <img src="/assets/images/funding_logos/StanfordOfficeofSTEMOutreach.png" width="49%" /> <br>
     <img src="/assets/images/funding_logos/StanfordHaas.png" width="49%" /> 
     <img src="/assets/images/funding_logos/StanfordGraduateStudentCouncil.png" width="49%" /> <br>
-    <img src="/assets/images/funding_logos/StanfordBiosciences.png" width="49%" /> 
+    <img src="/assets/images/funding_logosTomKat.jpeg" width="49%" /> 
 </p>
 
 Our high school students are supported by
