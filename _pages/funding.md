@@ -23,7 +23,7 @@ and the Stanford Haas Center for Public Service.
     <img src="/assets/images/funding_logos/StanfordOfficeofSTEMOutreach.png" width="49%" /> <br>
     <img src="/assets/images/funding_logos/StanfordHaas.png" width="49%" /> 
     <img src="/assets/images/funding_logos/StanfordGraduateStudentCouncil.png" width="49%" /> <br>
-    <img src="/assets/images/funding_logosTomKat.jpeg" width="49%" /> 
+    <img src="/assets/images/funding_logos/TomKat.jpeg" width="49%" /> 
 </p>
 
 Our high school students are supported by
