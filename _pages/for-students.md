@@ -2,7 +2,14 @@
 title: For Students
 permalink: /students/
 layout: single
-classes: full-wide
+classes: wide
+sidebar:
+  title: "Resources"
+  nav: "for-students"
 ---
 
-Coming soon: workshops and other student resources from previous sessions!
+The tabs on the left contain workshop slides and other resources from previous sessions.
+
+## Surveys
+
+No surveys at this time.

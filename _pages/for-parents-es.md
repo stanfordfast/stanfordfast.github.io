@@ -5,7 +5,7 @@ layout: single
 classes: wide
 sidebar:
   title: "Language"
-  nav: for-parents
+  nav: "for-parents"
 ---
 
 <p align="center">
