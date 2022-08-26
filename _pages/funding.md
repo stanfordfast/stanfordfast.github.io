@@ -17,13 +17,16 @@ the Stanford School of Engineering,
 and the Stanford Haas Center for Public Service.
 
 <p align="center">
-    <img src="/assets/images/funding_logos/StanfordBiosciences.png" width="49%" /> 
-    <img src="/assets/images/funding_logos/StanfordVPGE.png" width="49%" /> <br>
-    <img src="/assets/images/funding_logos/StanfordSoE.png" width="49%" /> 
-    <img src="/assets/images/funding_logos/StanfordOfficeofSTEMOutreach.png" width="49%" /> <br>
-    <img src="/assets/images/funding_logos/StanfordHaas.png" width="49%" /> 
-    <img src="/assets/images/funding_logos/StanfordGraduateStudentCouncil.png" width="49%" /> <br>
-    <img src="/assets/images/funding_logos/TomKat.jpeg" width="49%" /> 
+    <img src="/assets/images/funding_logos/StanfordBiosciences.png" width="40%" style="margin-right: 2em;" /> 
+    <img src="/assets/images/funding_logos/StanfordVPGE.png" width="40%" />
+    <br> <br>
+    <img src="/assets/images/funding_logos/StanfordSoE.png" width="35%" style="margin-right: 2em;" /> 
+    <img src="/assets/images/funding_logos/StanfordOfficeofSTEMOutreach.png" width="50%" />
+    <br> <br>
+    <img src="/assets/images/funding_logos/StanfordHaas.png" width="40%" style="margin-right: 2em;" /> 
+    <img src="/assets/images/funding_logos/StanfordGraduateStudentCouncil.png" width="40%" /> 
+    <br> <br>
+    <img src="/assets/images/funding_logos/TomKat.jpeg" width="40%" /> 
 </p>
 
 Our high school students are supported by
