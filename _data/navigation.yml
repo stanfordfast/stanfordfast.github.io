@@ -31,6 +31,24 @@ for-parents:
   - title: "Dành cho phụ huynh"
     url: /parents/vi/
 
+for-students:
+  - title: "Surveys"
+    url: /students/
+  - title: "Workshops"
+    children:
+      - title: "2022-23"
+        url: /workshops/2022-23/
+      - title: "2021-22"
+        url: /workshops/2021-22/
+      - title: "2020-21"
+        url: /workshops/2020-21/
+  - title: "Project Information"
+    url: /resources/projects/
+  - title: "Summer Internships"
+    url: /resources/internships/
+  - title: "Applying To College"
+    url: /resources/college/
+
 archive:
   - title: "2021-22"
     children:
