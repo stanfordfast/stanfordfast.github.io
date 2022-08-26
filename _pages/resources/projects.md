@@ -1,6 +1,6 @@
 ---
 title: "Information for FAST Projects"
-permalink: /resources/projects
+permalink: /resources/projects/
 layout: single
 classes: wide
 sidebar:

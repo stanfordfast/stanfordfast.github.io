@@ -12,10 +12,10 @@ To get started after cloning the repo:
 Images:
 - All images except headers or nice group photos should be pretty small (< 400 KB) so they can load more quickly on the website
 - All mentor photos should be square and < 300 KB if possible
-- There's a script in the `assets/images` directory called `downsize.sh` that can automatically shrink an image by 50%. The command to use it (from the `assets/images` directory) is `./downsize.sh <filename`, for example:
+- There's a script in the `assets/images` directory called `downsize.sh` that can automatically shrink an image by 50%. The command to use it (from the `assets/images` directory) is `./downsize.sh <filename>`, for example:
   ```
-  ./downsize.sh 2022-23/mentors/sarah_wu.jpg
-  --> -rw-r--r--@ 1 Sarah  staff  203488 Aug 25 22:56 2022-23/mentors/sarah_wu.jpg
+  >  ./downsize.sh 2022-23/mentors/sarah_wu.jpg
+  -rw-r--r--@ 1 Sarah  staff  203488 Aug 25 22:56 2022-23/mentors/sarah_wu.jpg
   ```
   which shows that this image is now 203 KB.
 

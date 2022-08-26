@@ -1,6 +1,6 @@
 ---
 title: "Applying To College"
-permalink: /resources/college
+permalink: /resources/college/
 layout: single
 classes: wide
 sidebar:
