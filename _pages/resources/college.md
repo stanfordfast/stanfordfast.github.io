@@ -4,7 +4,8 @@ permalink: /resources/college
 layout: single
 classes: wide
 sidebar:
-    nav: "for-students"
+  title: "Resources"
+  nav: "for-students"
 ---
 
 ## Making a college list

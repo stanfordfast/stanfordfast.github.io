@@ -4,7 +4,8 @@ permalink: /resources/projects
 layout: single
 classes: wide
 sidebar:
-    nav: "for-students"
+  title: "Resources"
+  nav: "for-students"
 ---
 
 ## Project timeline

@@ -4,7 +4,8 @@ permalink: /resources/internships/
 layout: single
 classes: wide
 sidebar:
-    nav: "for-students"
+  title: "Resources"
+  nav: "for-students"
 ---
 
 [Here](https://docs.google.com/spreadsheets/d/1jKo-7N2PCCjhMTP1SUimi6gmgnQ0NzgtA2E_mkeoHsI/edit?usp=sharing) is a database of summer internship and research opportunities, updated for 2021.
