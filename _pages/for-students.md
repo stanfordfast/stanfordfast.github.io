@@ -12,4 +12,4 @@ The tabs on the left contain workshop slides and other resources from previous s
 
 ## Surveys
 
-No surveys at this time.
+Make sure to sign up for FAST 2022-23 [here](https://tinyurl.com/FASTsignup22)!
