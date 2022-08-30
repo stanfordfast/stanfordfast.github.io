@@ -33,7 +33,7 @@ chương trình này để giúp thêm cho vào hồ sơ xin vào trường đ�
 học, cũng như giúp xin tiền  học bổng.
 
 Chúng tôi mong các em thực hành (với các học sinh IB) những điều sau đây:
-- Tham dự 80% các cuộc họp mỗi thứ bảy từ 12:30 - 5:00 giờ chiều
+- Tham dự 80% các cuộc họp mỗi thứ bảy từ 12 - 5 giờ chiều
 - Viết một phác thảo dự án và ngân sách cho các thí nghiệm
 - Thực hiện thí nghiệm một cách an toàn trong nhiều tuần
 - Triệt để phân tích các kết quả thử nghiệm
