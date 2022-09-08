@@ -52,6 +52,8 @@ for-students:
 archive:
   - title: "2022-23"
     children:
+      - title: "Session 1"
+        url: /2022-23/session-1/
       - title: "Session 0"
         url: /2022-23/session-0/
       - title: "Pitch Day"
