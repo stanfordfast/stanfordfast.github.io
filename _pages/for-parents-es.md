@@ -5,7 +5,7 @@ layout: single
 classes: wide
 sidebar:
   title: "Language"
-  nav: for-parents
+  nav: "for-parents"
 ---
 
 <p align="center">
@@ -31,7 +31,7 @@ para los estudiantes que completen con éxito el programa.
  
 Esperamos que los equipos de estudiantes o personas (para los alumnos del IB) a:
 - Asistir al 80% de las reuniones de los sábados
-- reuniones de los sábados son de 12:30 - 5:00 pm
+- reuniones de los sábados son de 12 - 5 PM
 - Escribir un esquema de proyecto y presupuesto para experimentos
 - Realizar experimentos de forma segura a través de múltiples semanas
 - Analizar a fondo los resultados experimentales

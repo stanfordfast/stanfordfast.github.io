@@ -5,7 +5,7 @@ layout: single
 classes: wide
 sidebar:
   title: "Language"
-  nav: for-parents
+  nav: "for-parents"
 ---
 
 <p align="center">
@@ -30,7 +30,7 @@ successfully complete the program.
  
 We expect teams of students or individuals (for IB students) to:
 - Attend 80% of the Saturday meetings
-- Saturday meetings are from 12:30 - 5:00pm
+- Saturday meetings are from 12 - 5 PM
 - Write a project outline and budget for experiments
 - Safely perform experiments over multiple weeks
 - Thoroughly analyze experimental results
