@@ -12,7 +12,7 @@ FAST is a program in which Stanford University graduate students mentor Future A
 Feel free to contact us with any questions, comments, or concerns!
 - For general questions, email Hannah (hrosenbl[at]stanford.edu) or Alex (ajh96[at]stanford.edu).
 - For questions about joining FAST, email Hope (htleng[at]stanford.edu).
-- For questions about the website, email Edward (edwardmu[at]stanford.edu).
+- For questions about the website, email Sarah (sarahawu[at]stanford.edu).
 
 # Stanford Mentors 2022-23
 
