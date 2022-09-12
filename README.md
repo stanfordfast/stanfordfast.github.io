@@ -42,3 +42,4 @@ Formatting:
 - add current mentors
 - ~~add student workshops~~
 - add media
+- fix github authentication issue
