@@ -23,7 +23,7 @@ Feel free to contact us with any questions, comments, or concerns!
         <p> President </p>
     </div>
     <div class="mentor-card" style="text-align: center;">
-        <img src="/assets/images/2022-23/mentors/alex_heyer.jpg" />
+        <img src="/assets/images/2022-23/mentors/Alex_Heyer.png" />
         <p> <b>Alex Heyer</b> <br> Chemistry </p>
         <p> Chief Operations Officer </p>
     </div>
@@ -40,7 +40,7 @@ Feel free to contact us with any questions, comments, or concerns!
     <p> Andrew Hill Chief Program Officer </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/edward_mu.jpg" />
+    <img src="/assets/images/2022-23/mentors/Edward_Mu.png" />
     <p> <b>Edward Mu</b> <br> Chemistry </p>
     <p> Andrew Hill Deputy Program Officer </p>
 </div>
@@ -55,9 +55,82 @@ Feel free to contact us with any questions, comments, or concerns!
     <p> James Lick Chief Program Officer </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <img src="/assets/images/2022-23/mentors/Josephine_Wong.jpg" />
     <p> <b>Josephine Wong</b> <br> Physics </p>
     <p> James Lick Deputy Program Officer </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Joseph Kelly</b> <br> Chemistry </p>
+    <p> Financial Officer </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/Stephanie_Lim.jpeg" />
+    <p> <b>Stephanie Lim</b> <br> Earth System Science </p>
+    <p> Development Officer (external)  </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Savy Lu</b> <br> Electrical Engineering </p>
+    <p> Development Officer (internal), Grant Writing Team </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Jasper Ainsworth</b> <br> Chemistry </p>
+    <p> Chief Compliance Officer </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Travis Lantz</b> <br> Chemical and Systems Biology  </p>
+    <p> Deputy Financial Officer, Grant Writing Team, Symposium Chair </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Anudeep Mangu</b> <br> Material Science and Engineering  </p>
+    <p> Partnership Development Officer </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/Hope_Leng.jpg" />
+    <p> <b>Hope Leng</b> <br> Bioengineering </p>
+    <p> Director of Recruitment, Grant Writing Team </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Leslie Chan</b> <br> Immunology </p>
+    <p> Director of Mentor Training, Workshops Coordinator </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Louis Wang</b> <br> Material Science and Engineering </p>
+    <p> Outcomes Officer </p>
+</div>
+
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/Qian_Zhao.jpeg" />
+    <p> <b>Qian Zhao</b> <br> Biomedical Data Science </p>
+    <p> Outcomes Officer </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Amanda Wiggenhorn</b> <br> Biology </p>
+    <p> Workshops Coordinator </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Ruhi Sayana</b> <br> </p>
+    <p> Science Fair Coordinator </p>
 </div>
 
 More coming soon!
