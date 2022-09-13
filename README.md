@@ -43,3 +43,4 @@ Formatting:
 - ~~add student workshops~~
 - add media
 - fix github authentication issue
+- add SUNet/password protected mentors only page?
