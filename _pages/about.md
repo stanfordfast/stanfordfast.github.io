@@ -103,13 +103,13 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <img src="/assets/images/2022-23/mentors/Leslie_Chan.jpg" />
     <p> <b>Leslie Chan</b> <br> Immunology </p>
     <p> Director of Mentor Training, Workshops Coordinator </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <img src="/assets/images/2022-23/mentors/louis_wang.jpg" />
     <p> <b>Louis Wang</b> <br> Material Science and Engineering </p>
     <p> Outcomes Officer </p>
 </div>
@@ -303,11 +303,7 @@ Feel free to contact us with any questions, comments, or concerns!
     <p> <b>Sofia Wyetzner</b> <br>  Computer Science</p>
     <p> Mentor </p>
 </div>
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/louis_wang.jpg" />
-    <p> <b>Louis Wang</b> <br>  Material Science and Engineering</p>
-    <p> Mentor </p>
-</div>
+
 <div class="mentor-card" style="text-align: center;">
     <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
     <p> <b>Christopher Choi</b> <br>  Material Science and Engineering</p>
