@@ -23,7 +23,7 @@ Feel free to contact us with any questions, comments, or concerns!
         <p> President </p>
     </div>
     <div class="mentor-card" style="text-align: center;">
-        <img src="/assets/images/2022-23/mentors/Alex_Heyer.png" />
+        <img src="/assets/images/2022-23/mentors/Alex_Heyer.jpg" />
         <p> <b>Alex Heyer</b> <br> Chemistry </p>
         <p> Chief Operations Officer </p>
     </div>
@@ -40,7 +40,7 @@ Feel free to contact us with any questions, comments, or concerns!
     <p> Andrew Hill Chief Program Officer </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/Edward_Mu.png" />
+    <img src="/assets/images/2022-23/mentors/Edward_Mu.jpg" />
     <p> <b>Edward Mu</b> <br> Chemistry </p>
     <p> Andrew Hill Deputy Program Officer </p>
 </div>
@@ -190,11 +190,6 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 <div class="mentor-card" style="text-align: center;">
     <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
-    <p> <b>Qian Zhao</b> <br>  Biomedical Data Science</p>
-    <p> Mentor </p>
-</div>
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
     <p> <b>Alex Chang</b> <br>  Chemistry</p>
     <p> Mentor </p>
 </div>
@@ -254,7 +249,7 @@ Feel free to contact us with any questions, comments, or concerns!
     <p> Mentor </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/Peter_Zhu.png" />
+    <img src="/assets/images/2022-23/mentors/Peter_Zhu.jpg" />
     <p> <b>Peter Zhu</b> <br>  Psychology</p>
     <p> Mentor </p>
 </div>
