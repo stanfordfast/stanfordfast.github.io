@@ -23,7 +23,7 @@ Feel free to contact us with any questions, comments, or concerns!
         <p> President </p>
     </div>
     <div class="mentor-card" style="text-align: center;">
-        <img src="/assets/images/2022-23/mentors/Alex_Heyer.jpg" />
+        <img src="/assets/images/2022-23/mentors/AlexHeyer.jpg" />
         <p> <b>Alex Heyer</b> <br> Chemistry </p>
         <p> Chief Operations Officer </p>
     </div>
