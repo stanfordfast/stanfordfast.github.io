@@ -330,7 +330,7 @@ Feel free to contact us with any questions, comments, or concerns!
     <p> Mentor </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/Daiyao_Zhang.jpg" />
+    <img src="/assets/images/2022-23/mentors/Daiyao_Zhang.png" />
     <p> <b>Daiyao Zhang</b> <br>  Chemical Engineering</p>
     <p> Mentor </p>
 </div>
@@ -360,7 +360,7 @@ Feel free to contact us with any questions, comments, or concerns!
     <p> Mentor </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/Vivek_Shankar.jpg" />
+    <img src="/assets/images/2022-23/mentors/Vivek_Shankar.png" />
     <p> <b>Vivek Shankar</b> <br>  Computer Science</p>
     <p> Mentor </p>
 </div>
