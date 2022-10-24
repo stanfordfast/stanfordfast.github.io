@@ -284,7 +284,7 @@ Feel free to contact us with any questions, comments, or concerns!
     <p> Mentor </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <img src="/assets/images/2022-23/mentors/Katherine_Yan.jpg" />
     <p> <b>Katherine Yan</b> <br>  Chemical Engineering</p>
     <p> Mentor </p>
 </div>
@@ -330,7 +330,7 @@ Feel free to contact us with any questions, comments, or concerns!
     <p> Mentor </p>
 </div>
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <img src="/assets/images/2022-23/mentors/Daiyao_Zhang.jpg" />
     <p> <b>Daiyao Zhang</b> <br>  Chemical Engineering</p>
     <p> Mentor </p>
 </div>
@@ -339,6 +339,92 @@ Feel free to contact us with any questions, comments, or concerns!
     <p> <b>Dashiel Grusky</b> <br>  Chemistry</p>
     <p> Mentor </p>
 </div>
+
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/Xiaohan_Mei.jpg" />
+    <p> <b>Xiaohan Mei</b> <br>  Aero/Astro</p>
+    <p> Mentor </p>
+</div>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Adrian Wackett</b> <br>  Geological Sciences</p>
+    <p> Mentor </p>
+</div>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Katherine Yan</b> <br>  Chemical Engineering</p>
+    <p> Mentor </p>
+</div>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Angelika Hirsch</b> <br>  Biophysics</p>
+    <p> Mentor </p>
+</div>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/Vivek_Shankar.jpg" />
+    <p> <b>Vivek Shankar</b> <br>  Computer Science</p>
+    <p> Mentor </p>
+</div>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Timothy Sudijono</b> <br>  Statistics</p>
+    <p> Mentor </p>
+</div>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Praveen Sriram</b> <br>  Applied Physics</p>
+    <p> Mentor </p>
+</div>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Hope Walton</b> <br>  Chemical Engineering</p>
+    <p> Mentor </p>
+</div>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/Heegwang_Roh.jpg" />
+    <p> <b>Heegwang Roh</b> <br>  Chemistry / Chemical Biology</p>
+    <p> Mentor </p>
+</div>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Adithya Sriram</b> <br>  Physics</p>
+    <p> Mentor </p>
+</div>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/Jayoon_Jang.jpg" />
+    <p> <b>Jayoon Jang</b> <br>  Statistics</p>
+    <p> Mentor </p>
+</div>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Abby Stein</b> <br>  Applied Physics</p>
+    <p> Mentor </p>
+</div>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/Andrew_Sullivan.jpg" />
+    <p> <b>Andrew Sullivan</b> <br>  Physics</p>
+    <p> Mentor </p>
+</div>
+</div>
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <p> <b>Stephan Ramos</b> <br>  Developmental Biology</p>
+    <p> Mentor </p>
+</div>
+
 
 
 
