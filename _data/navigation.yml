@@ -52,6 +52,10 @@ for-students:
 archive:
   - title: "2022-23"
     children:
+      - title: "Session 6"
+        url: /2022-23/session-6/
+      - title: "Session 5"
+        url: /2022-23/session-5/
       - title: "Session 4"
         url: /2022-23/session-4/
       - title: "Session 3"
