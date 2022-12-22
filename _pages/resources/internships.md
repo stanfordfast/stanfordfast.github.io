@@ -12,7 +12,6 @@ sidebar:
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUF26aiMDW9nH-zCMl2XBiuQK6W-3v4LZnbcFrljKWM1WDz4RQwUkc52avbj41BDuMzNUibXGcSJFz/pubhtml?gid=1689554481&amp;single=true&amp;widget=true&amp;headers=false" width="960" height="540" ></iframe>
 
-<!DOCTYPE html>
 <html>
 
 <head>
