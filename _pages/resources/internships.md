@@ -1,5 +1,5 @@
 ---
-title: "Summer Internship Opportunities"
+title: "Summer Internships for High School Students"
 permalink: /resources/internships/
 layout: single
 classes: wide
@@ -8,16 +8,12 @@ sidebar:
   nav: "for-students"
 ---
 
-[Here](https://docs.google.com/spreadsheets/d/1jKo-7N2PCCjhMTP1SUimi6gmgnQ0NzgtA2E_mkeoHsI/edit?usp=sharing) is a database of summer internship and research opportunities, updated for 2021.
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUF26aiMDW9nH-zCMl2XBiuQK6W-3v4LZnbcFrljKWM1WDz4RQwUkc52avbj41BDuMzNUibXGcSJFz/pubhtml?gid=1689554481&amp;single=true&amp;widget=true&amp;headers=false" width="960" height="540" ></iframe>
-
 <html>
 
 <head>
   <style>
     table {
-      width: 50%;
+      width: 100%;
       table-layout: fixed;
       border: none;
       border-top: 1px solid #EEEEEE;
@@ -71,7 +67,7 @@ sidebar:
       display: grid;
       grid-column: 1/-1;
       justify-content: flex-start;
-      color: #AEB1B3;
+      color: #505152;
       font-size: 13px;
       background-color: #fff;
     }
@@ -84,8 +80,6 @@ sidebar:
 
 <body>
 
-  <h2> Summer Internships for High School Students</h2>
-
   <table>
     <tr>
       <th>Name</th>
@@ -96,7 +90,7 @@ sidebar:
       <th>Deadline</th>
     </tr>
     <tr onClick='toggleRow(this)'>
-      <td><a href=”https://www.scu.edu/engineering/beyond-the-classroom/outreach/summer-engineering-seminar-ses/”>Summer Engineering Seminar at SCU</a></td>
+      <td><a href="https://www.scu.edu/engineering/beyond-the-classroom/outreach/summer-engineering-seminar-ses" target="_blank">Summer Engineering Seminar at Santa Clara University</a></td>
       <td>Classes</td>
       <td>SO</td>
       <td>Santa Clara University</td>
@@ -105,7 +99,7 @@ sidebar:
       <td class='expanded-row-content hide-row'>The Summer Engineering Seminar at SCU is a 5-day curricular program aiming to expose high school students to different engineering disciplines. It will give program participants the option to continue for a second summer with more advanced courses. All program fees are paid for by the School of Engineering and gifts from various sponsors and foundations.</td>
     </tr>
     <tr onClick='toggleRow(this)'>
-      <td><a href=”https://mites.mit.edu/discover-mites/mites-summer/”>MIT MITES Summer</a></td>
+      <td><a href="https://mites.mit.edu/discover-mites/mites-summer/">MIT MITES Summer</a></td>
       <td>Classes</td>
       <td>JR</td>
       <td>Massachusetts Institute of Technology</td>
@@ -115,7 +109,7 @@ sidebar:
     </tr>
 
     <tr onClick='toggleRow(this)'>
-      <td><a href=”https://www.cee.org/programs/research-science-institute”>MIT Research Science Institute (RSI)</a></td>
+      <td><a href="https://www.cee.org/programs/research-science-institute" target="_blank">MIT Research Science Institute (RSI)</a></td>
       <td>Research</td>
       <td>JR</td>
       <td>Massachusetts Institute of Technology</td>
@@ -125,47 +119,47 @@ sidebar:
     </tr>
 
     <tr onClick='toggleRow(this)'>
-      <td><a href=”https://cosmos-ucop.ucdavis.edu/app/main”>California State Summer School for Mathematics and Science (COSMOS)</a></td>
+      <td><a href="https://cosmos-ucop.ucdavis.edu/app/main" target="_blank">California State Summer School for Mathematics and Science (COSMOS)</a></td>
       <td>Classes</td>
       <td>All Years</td>
       <td>UC Davis, Irvine, San Diego, or Santa Cruz</td>
       <td>Varies, 4-week program</td>
-      <td>Feb 10 by 11:59 PM</td>
+      <td>Feb 10 by 11:59 PM PST</td>
       <td class='expanded-row-content hide-row'>COSMOS is a 4-week residential summer school for high school students. They will get the opportunity to take STEM courses beyond what is typically offered in California high schools. Financial aid is available for tuition.</td>
     </tr>
 
     <tr onClick='toggleRow(this)'>
-      <td><a href=”https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/how-to-apply/”>Boston Research in Science & Engineering (RISE)</a></td>
+      <td><a href="https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/how-to-apply/" target="_blank">Boston Research in Science & Engineering (RISE)</a></td>
       <td>Research</td>
       <td>JR</td>
       <td>Boston University</td>
       <td>July 2 - Aug 11</td>
-      <td>Feb 14 by 9 PM</td>
+      <td>Feb 14 by 9 PM PST</td>
       <td class='expanded-row-content hide-row'>Boston RISE is a 6-week residential research program. There are two tracks: a research and a practicum track. In the internship track, students work one-on-one with faculty, post-docs, and graduate students. In the practicum track, which will be focused on computational neurobiology, there will be a mix of lecture and group research. Both tracks will present their research at a symposium at the end of the program. Limited financial aid is available.</td>
     </tr>
 
     <tr onClick='toggleRow(this)'>
-      <td><a href=”https://sip.ucsc.edu/program-details/apply-now/">UCSC Science Internship Program</a></td>
+      <td><a href="https://sip.ucsc.edu/program-details/apply-now/" target="_blank">UCSC Science Internship Program</a></td>
       <td>Research</td>
       <td>At least 14 years old and enrolled in HS</td>
       <td>Remote/In-person on UCSC campus</td>
       <td>June 24 - Aug 20</td>
-      <td>March 31 by 5 PM</td>
+      <td>March 31 by 5 PM PST</td>
       <td class='expanded-row-content hide-row'>The UCSC SIP program gives high school students the opportunity to conduct research for 10 weeks under the mentorship of UCSC faculty, post-docs, and graduate students. They will work in groups of 3 or more. Projects in many STEM areas (astrophysics, biology, psychology, etc.) are offered. Limited scholarships are available.</td>
     </tr>
 
     <tr onClick='toggleRow(this)'>
-      <td><a href=”https://globalscholars.yale.edu/”>Yale Young Global Scholars</a></td>
+      <td><a href="https://globalscholars.yale.edu/" target="_blank">Yale Young Global Scholars</a></td>
       <td>Courses</td>
       <td>SO, JR</td>
       <td>Yale University</td>
       <td>Sessions I-III: June 18-30, July 2-14, July 16-28</td>
-      <td>Jan 10 by 9:59 PM</td>
+      <td>Jan 10 by 9:59 PM PST</td>
       <td class='expanded-row-content hide-row'>Yale Young Global Scholars is an enrichment program for high school students aspiring to become future leaders. The program is 2 weeks long and offers a variety of interdisciplinary courses, such as "Literature, Philosophy, & Culture" and "Solving Global Challenges." Students will get a chance to experience life on campus and meet campus faculty.</td>
     </tr>
 
     <tr onClick='toggleRow(this)'>
-      <td><a href=”https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute">Google Computer Science Summer Institute (CSSI)</a></td>
+      <td><a href="https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute" target="_blank">Google Computer Science Summer Institute (CSSI)</a></td>
       <td>Courses</td>
       <td>Rising 1st Year College Students</td>
       <td>TBD</td>
@@ -175,17 +169,17 @@ sidebar:
     </tr>
 
     <tr onClick='toggleRow(this)'>
-      <td><a href=”https://promys.org/”>Program in Mathematics for Young Scientists (PROMYS)</a></td>
+      <td><a href="https://promys.org/" target="_blank">Program in Mathematics for Young Scientists (PROMYS)</a></td>
       <td>Courses</td>
       <td>FR, SO, JR</td>
       <td>Boston University</td>
       <td>July 2 - Aug 12</td>
-      <td>Mar 5 by 9:59 PM</td>
+      <td>Mar 5 by 9:59 PM PST</td>
       <td class='expanded-row-content hide-row'>PROMYS is a summer program where high school students will participate in a math courses, seminars, and guest lectures for 6 weeks. Returning students will get a chance to work on a research problem in teams of four. Full and partial financial aid (including room and board) is available and completely covers costs for students whose families earn under $60,000. </td>
     </tr>
 
     <tr onClick='toggleRow(this)'>
-      <td><a href=”https://www.navalsteminterns.us/seap/”>Department of Navy (DoN) Science and Engineering Apprenticeship Program (SEAP)</a></td>
+      <td><a href="https://www.navalsteminterns.us/seap/" target="_blank">Department of Navy (DoN) Science and Engineering Apprenticeship Program (SEAP)</a></td>
       <td>Research</td>
       <td>SO, JR, SR (at least 16 years old by program start)</td>
       <td>DoN Laboratories</td>
@@ -195,7 +189,7 @@ sidebar:
     </tr>
 
     <tr onClick='toggleRow(this)'>
-      <td><a href=”https://med.stanford.edu/odme/high-school-students/smysp.html”>Stanford Medical Youth Science Program (SMYSP)</a></td>
+      <td><a href="https://med.stanford.edu/odme/high-school-students/smysp.html" target="_blank">Stanford Medical Youth Science Program (SMYSP)</a></td>
       <td>Courses</td>
       <td>JR with at least B/B- average in most science classes</td>
       <td>Stanford University</td>
@@ -205,27 +199,27 @@ sidebar:
     </tr>
 
     <tr onClick='toggleRow(this)'>
-      <td><a href=”https://simr.stanford.edu/”>Stanford Institutes of Medicine Summer Research Program (SIMR)</a></td>
+      <td><a href="https://simr.stanford.edu/" target="_blank">Stanford Institutes of Medicine Summer Research Program (SIMR)</a></td>
       <td>Research</td>
       <td>JR, SR</td>
       <td>Stanford University</td>
       <td>June 12 - Aug 3</td>
-      <td>Dec 16 by 5 PM</td>
+      <td>Dec 16 by 5 PM PST</td>
       <td class='expanded-row-content hide-row'>SIMR is an 8-week medical research program for high school students. Participants will learn about the process of scientific research and be exposed to current research efforts in the biological sciences and medicine under one-on-one mentorship. They can choose to participate in one of eight areas of research (institutes), which include Immunology, Stem Cell and Regenerative Medicine, and Neurobiology, among others. There is no cost to the program. Participants will also receive a stipend. </td>
     </tr>
 
     <tr onClick='toggleRow(this)'>
-      <td><a href=”https://med.stanford.edu/cssec/summer-internship.html”>Stanford Cardiothoracic Surgical Summer Internship </a></td>
+      <td><a href="https://med.stanford.edu/cssec/summer-internship.html" target="_blank">Stanford Cardiothoracic Surgical Summer Internship </a></td>
       <td>Courses</td>
       <td>JR</td>
       <td>Stanford University</td>
       <td>Sessions I and II: June 26-July 7, July 17-28</td>
-      <td>Mar 6 by 12 PM</td>
+      <td>Mar 6 by 12 PM PST</td>
       <td class='expanded-row-content hide-row'>The Cardiothoracic Surgical Stanford Summer Internship (CSSSI) will provide high school students exposure to cardiothroacic surgery and technical skills. It will include both lectures and labs taught by Stanford faculty and medical staff. Participants will need to arrange for their own housing and transportation due to health/safety concerns arising from the COVID pandemic. Financial aid is available for students to apply for.</td>
     </tr>
 
     <tr onClick='toggleRow(this)'>
-      <td><a href=”https://chemistry.stanford.edu/outreach/community-outreach/shadow-program-high-school-students”>Stanford Department of Chemistry Inspiring Future Scientists through Shadowing (IFSS)</a></td>
+      <td><a href="https://chemistry.stanford.edu/outreach/community-outreach/shadow-program-high-school-students" target="_blank">Stanford Department of Chemistry Inspiring Future Scientists through Shadowing (IFSS)</a></td>
       <td>Research</td>
       <td>JR, SR</td>
       <td>Stanford University</td>
@@ -246,3 +240,4 @@ sidebar:
 </body>
 
 </html>
+
