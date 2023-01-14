@@ -62,6 +62,20 @@ sidebar:
       background-color: #EEF4FD;
     }
 
+    tr:nth-child(2) {
+      background-color: #03fc20;
+      border: none;
+      cursor: pointer;
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      justify-content: flex-start;
+    }
+
+    tr:nth-child(2):hover {
+      cursor: default;
+      background-color: #a1f28f;
+    }
+
     .expanded-row-content {
       border-top: none;
       display: grid;
@@ -79,16 +93,34 @@ sidebar:
 </head>
 
 <body>
+  <font size="+0">
+  For more internship opportunities, the Stanford Office of Science Outreach has compiled a list offered at Stanford here: <a href="https://oso.stanford.edu/programs/high-school-students">https://oso.stanford.edu/programs/high-school-students</a>.
+  <br>
+  Also, FAST is hosting its FIRST annual Grant Imahara FAST Scholarship to support graduating FAST seniors in their college journey! Visit <a href="https://www.fastprogram.org/gifs">https://www.fastprogram.org/gifs</a> for more information.
+  <br>
+  <br>
+  </font>
 
   <table>
     <tr>
       <th>Name</th>
       <th>Type</th>
       <th>Eligibility</th>
-      <th>Location</th>
-      <th>Dates</th>
-      <th>Deadline</th>
+      <th>Program Location</th>
+      <th>Program Dates</th>
+      <th>Application Deadline</th>
     </tr>
+
+    <tr onClick='toggleRow(this)'>
+      <td>!!! FAST Summer Internship !!!</td>
+      <td>Research</td>
+      <td>At least 16 years old and not a graduating senior</td>
+      <td>Stanford University</td>
+      <td>8 weeks</td>
+      <td>TBD</td>
+      <td class='expanded-row-content hide-row'>FAST is funding a paid summer internship at Stanford this summer for a few students. You will work on a research project with a mentor in a real Stanford lab. The program will take place over 8 weeks between June and August, although the exact dates are flexible. You will work 6 hours per day, Monday through Friday. You will get paid a few thousand dollars (exact amount is tbd). We will send out an application in January. You must be at least 16 by this summer to apply, and you can’t apply if you’re graduating this year.</td>
+    </tr>
+
     <tr onClick='toggleRow(this)'>
       <td><a href="https://www.scu.edu/engineering/beyond-the-classroom/outreach/summer-engineering-seminar-ses" target="_blank">Summer Engineering Seminar at Santa Clara University</a></td>
       <td>Classes</td>
@@ -189,6 +221,16 @@ sidebar:
     </tr>
 
     <tr onClick='toggleRow(this)'>
+      <td><a href="https://compression.stanford.edu/outreach/shtem-summer-internships-high-schoolers-and-community-college-students" target="_blank">STEM2SHTEM</a></td>
+      <td>Research</td>
+      <td>JR, SR</td>
+      <td>Stanford University</td>
+      <td>June 26 - Aug 18, 2023</td>
+      <td>Feb 24, 2023 at 11:59 PST</td>
+      <td class='expanded-row-content hide-row'>STEM2SHTEM (which was started by former FAST mentor, Cindy Nguyen!) is a summer internship program for high school (along with early community college students) who are interested in working on fun research projects over the summer. Fields of research include engineering, the arts, philosophy, psychology, biology, computer science, among other areas. Students will be mentored by Stanford faculty and staff from the Stanford Compression Forum. The program emphasizes the synergies between humanities and STEM research and exposes students to pioneering areas of research in an academic setting. The program is 8 weeks long and is tentatively virtual/hybrid.</td>
+    </tr>
+
+    <tr onClick='toggleRow(this)'>
       <td><a href="https://med.stanford.edu/odme/high-school-students/smysp.html" target="_blank">Stanford Medical Youth Science Program (SMYSP)</a></td>
       <td>Courses</td>
       <td>JR with at least B/B- average in most science classes</td>
@@ -240,4 +282,3 @@ sidebar:
 </body>
 
 </html>
-
