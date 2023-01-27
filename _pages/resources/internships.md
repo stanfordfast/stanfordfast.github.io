@@ -112,13 +112,13 @@ sidebar:
     </tr>
 
     <tr onClick='toggleRow(this)'>
-      <td>!!! FAST Summer Internship !!!</td>
+      <td><a href="https://docs.google.com/forms/d/1gNf-rW7NwRFLCWYGgso5ptS8EMvC08aosoWHjWvS1Ro/edit" target="_blank">!!! FAST Summer Internship !!!</a></td>
       <td>Research</td>
       <td>At least 16 years old and not a graduating senior</td>
       <td>Stanford University</td>
       <td>8 weeks</td>
       <td>TBD</td>
-      <td class='expanded-row-content hide-row'>FAST is funding a paid summer internship at Stanford this summer for a few students. You will work on a research project with a mentor in a real Stanford lab. The program will take place over 8 weeks between June and August, although the exact dates are flexible. You will work 6 hours per day, Monday through Friday. You will get paid a few thousand dollars (exact amount is tbd). We will send out an application in January. You must be at least 16 by this summer to apply, and you can’t apply if you’re graduating this year.</td>
+      <td class='expanded-row-content hide-row'>FAST is funding a paid summer internship at Stanford this summer for a few students. You will work on a research project with a mentor in a real Stanford lab. The program will take place over 8 weeks between June and August, although the exact dates are flexible. You will work 6 hours per day, Monday through Friday. You will get paid a few thousand dollars (exact amount is tbd). Applications are now open! You must be at least 16 by this summer to apply, and you can’t apply if you’re graduating this year.</td>
     </tr>
 
     <tr onClick='toggleRow(this)'>
@@ -270,6 +270,16 @@ sidebar:
       <td class='expanded-row-content hide-row'> At IFSS, high school students will get a chance to shadow a graduate student in the Stanford Department of Chemistry and gain exposure to laboratory chemical research. There is no program fee, but participants must arrange for their own transportation and housing.</td>
     </tr>
 
+    <tr onClick='toggleRow(this)'>
+      <td><a href="https://physics.stanford.edu/inclusion/spinwip" target="_blank">Stanford Program for Inspiring the Next Generation of Women in Physics (SPINWIP)</a></td>
+      <td>Workshop</td>
+      <td>Female HS students between 9th and 11th grade</td>
+      <td>Stanford University</td>
+      <td>July 10-28</td>
+      <td>Application opens Jan 30</td>
+      <td class='expanded-row-content hide-row'>SPINWIP is a virtual workshop designed to get high-school girls excited about physics. It is a 3-week program where students will learn about cutting-edge research in physics (subjects include quantum physics and astrophysics), learn how to code in Python, and apply their coding skills to physics-based projects. There will be the opportunity to attend lectures by Stanford professors and college planning and career development workshops. The program is completely free to participants and held through video chat.</td>
+    </tr>
+    
   </table>
 
   <script>
