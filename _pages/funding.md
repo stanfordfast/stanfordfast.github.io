@@ -31,7 +31,7 @@ and the Stanford Haas Center for Public Service.
 
 Our high school students are supported by
 the Grant Imahara STEAM Foundation 
-and other supporters of the Future Advancers of Science and Technology non-profit organization.
+and other supporters of the <a href="https://www.fastprogram.org" target="_blank" style="color:inherit">Future Advancers of Science and Technology Non-Profit Organization</a>.
 
 <p align="center">
     <img src="/assets/images/funding_logos/GrantImaharaSTEAMFoundation.png" width="50%" />
