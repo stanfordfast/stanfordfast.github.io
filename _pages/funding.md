@@ -8,7 +8,7 @@ sidebar:
 ---
 
 FAST is currently funded by the generous support of
-the Stanford Office of Science Outreach,
+the Stanford Office of Community Engagement,
 Stanford Biosciences,
 the Graduate Student Council,
 the Stanford Office of the Vice Provost for Graduate Education through Diversity and Inclusion Innovation Funds (DIF),
@@ -21,7 +21,7 @@ and the Stanford Haas Center for Public Service.
     <img src="/assets/images/funding_logos/StanfordVPGE.png" width="40%" />
     <br> <br>
     <img src="/assets/images/funding_logos/StanfordSoE.png" width="35%" style="margin-right: 2em;" /> 
-    <img src="/assets/images/funding_logos/StanfordOfficeofSTEMOutreach.png" width="50%" />
+    <img src="/assets/images/funding_logos/StanfordOfficeofCommunityEngagement.png" width="50%" />
     <br> <br>
     <img src="/assets/images/funding_logos/StanfordHaas.png" width="40%" style="margin-right: 2em;" /> 
     <img src="/assets/images/funding_logos/StanfordGraduateStudentCouncil.png" width="40%" /> 

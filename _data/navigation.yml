@@ -54,8 +54,8 @@ for-students:
 archive:
   - title: "2023-24"
     children:
-      - title: "Session 0"
-        url: /2023-24/session-0/
+      - title: "Pitch Day"
+        url: /2023-24/pitch-day/
   - title: "2022-23"
     children:
       - title: "Session 10"
