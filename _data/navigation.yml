@@ -38,6 +38,8 @@ for-students:
     url: /students/
   - title: "Workshops"
     children:
+      - title: "2023-24"
+        url: /workshops/2023-24/
       - title: "2022-23"
         url: /workshops/2022-23/
       - title: "2021-22"
@@ -54,8 +56,12 @@ for-students:
 archive:
   - title: "2023-24"
     children:
-      - title: "Pitch Day"
-        url: /2023-24/pitch-day/
+      - title: "Session 0"
+        url: /2023-24/session-0/
+      - title: "Session 1"
+        url: /2023-24/session-1/
+      - title: "Session 2"
+        url: /2023-24/session-2/
   - title: "2022-23"
     children:
       - title: "Session 10"
