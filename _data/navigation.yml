@@ -62,6 +62,8 @@ archive:
         url: /2023-24/session-1/
       - title: "Session 2"
         url: /2023-24/session-2/
+      - title: "Session 3"
+        url: /2023-24/session-3/
   - title: "2022-23"
     children:
       - title: "Symposium"
