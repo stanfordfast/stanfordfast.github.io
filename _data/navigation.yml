@@ -64,6 +64,26 @@ archive:
         url: /2023-24/session-2/
       - title: "Session 3"
         url: /2023-24/session-3/
+      - title: "Session 4"
+        url: /2023-24/session-4/
+      - title: "Session 5"
+        url: /2023-24/session-5/
+      - title: "Session 6"
+        url: /2023-24/session-6/
+      - title: "Session 7"
+        url: /2023-24/session-7/
+      - title: "Session 8"
+        url: /2023-24/session-8/
+      - title: "Session 9"
+        url: /2023-24/session-9/
+      - title: "Session 10"
+        url: /2023-24/session-10/
+      - title: "Session 11"
+        url: /2023-24/session-11/
+      - title: "Session 12"
+        url: /2023-24/session-12/
+      - title: "Session 13"
+        url: /2023-24/session-13/
   - title: "2022-23"
     children:
       - title: "Symposium"
