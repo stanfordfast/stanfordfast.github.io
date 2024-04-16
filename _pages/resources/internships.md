@@ -101,7 +101,7 @@ sidebar:
     <tr onClick='toggleRow(this)'>
       <td>!!! FAST Summer Internship !!!</td>
       <td>Research</td>
-      <td>At least 16 years old and not a graduating senior</td>
+      <td>Only for current FAST students. At least 16 years old and not a graduating senior</td>
       <td>Stanford University</td>
       <td>TBD</td>
       <td>TBD</td>
