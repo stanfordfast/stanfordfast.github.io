@@ -7,16 +7,17 @@ sidebar:
     nav: "about"
 ---
 
-FAST is a program in which Stanford University graduate students mentor Future Advancers of Science and Technology (FAST) toward achieving their goals of answering open questions in science and engineering clever solutions to problems in their society. Students from Andrew P. Hill High School and James Lick High School in San Jose meet with Stanford students every other Saturday during the academic year. Between September and April, they design and execute original scientific research spanning topics in chemistry, biology, physics, engineering, and data science. Every spring, FAST students present their work at local and state science fairs and also at an annual symposium at Stanford University.
+FAST is a program in which Stanford University graduate students mentor Future Advancers of Science and Technology (FAST) toward achieving their goals of answering open questions in science and engineering clever solutions to problems in their society.
+Students from Andrew P. Hill, James Lick, and Independence high schools in East San Jose meet with Stanford students every other Saturday during the academic year. Between September and April, they design and execute original scientific research spanning topics in chemistry, biology, physics, engineering, and data science. Every spring, FAST students present their work at local and state science fairs and also at an annual symposium at Stanford University.
 
 Feel free to contact us with any questions, comments, or concerns!
 - For general questions, email Sarah (sarahawu[at]stanford.edu) or Nora (nenright[at]stanford.edu).
 - For questions about joining FAST, email Isabel (isalarus[at]stanford.edu).
 - For questions about the website, email Josephine (joswong[at]stanford.edu).
 
-# Stanford Mentors 2023-24
+**Note**: FAST is currently only open to students enrolled in the East San Jose High School District. If you attend an ESUHSD school that is not Andrew Hill, James Lick, or Independence, and would like to join FAST, please email Sarah.
 
-LEADING TEXT <span class="tooltip">ANCHOR TEXT<span class="tooltipcontent">TOOLTIP TEXT</span></span> TRAILING TEXT.
+# Stanford Mentors 2023-24
 
 <div style="text-align: center;">
     <div class="mentor-card" style="text-align: center;">
