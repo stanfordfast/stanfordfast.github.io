@@ -21,163 +21,343 @@ Feel free to contact us with any questions, comments, or concerns!
 
 <div style="text-align: center;">
     <div class="mentor-card" style="text-align: center;">
-	<img src="/assets/images/2022-23/mentors/sarah_wu.jpg" />
+	<img src="/assets/images/2023-24/mentors/sarah_wu.jpg" />
     	<p> <b>Sarah Wu</b> <br> Psychology </p>
         <p> President </p>
     </div>
     <div class="mentor-card" style="text-align: center;">
-    	<img src="/assets/images/2022-23/mentors/nora_enright.jpg" />
+    	<img src="/assets/images/2023-24/mentors/nora_enright.jpg" />
     	<p> <b>Nora Enright</b> <br> Bioengineering </p>
         <p> Chief Operations Officer </p>
     </div>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/eric_cooper.jpg" />
+    <img src="/assets/images/2023-24/mentors/eric_cooper.jpg" />
     <p> <b>Eric Cooper</b> <br> Physics </p>
     <p> Andrew Hill Chief Program Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <img src="/assets/images/2023-24/mentors/placeholder.jpg" />
     <p> <b>Jenna Ahn</b> <br>  Chemical Engineering</p>
     <p> Andrew Hill Chief Program Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <img src="/assets/images/2023-24/mentors/placeholder.jpg" />
     <p> <b>Shahadat Raman</b> <br> ___ </p>
     <p> Andrew Hill Deputy Program Officer, Symposium Chair </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/Leslie_Chan.jpg" />
+    <img src="/assets/images/2023-24/mentors/Leslie_Chan.jpg" />
     <p> <b>Leslie Chan</b> <br> Immunology </p>
     <p> James Lick Chief Program Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/Hope_Leng.jpg" />
+    <img src="/assets/images/2023-24/mentors/Hope_Leng.jpg" />
     <p> <b>Hope Leng</b> <br> Bioengineering </p>
     <p> James Lick Chief Program Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/Sofia_Wyetzner.jpg" />
+    <img src="/assets/images/2023-24/mentors/Sofia_Wyetzner.jpg" />
     <p> <b>Sofia Wyetzner</b> <br>  Computer Science</p>
     <p> James Lick Deputy Program Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/Edward_Mu.jpg" />
+    <img src="/assets/images/2023-24/mentors/Edward_Mu.jpg" />
     <p> <b>Edward Mu</b> <br> Chemistry </p>
     <p> Chief Compliance Officer, Grant Writing Team </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <img src="/assets/images/2023-24/mentors/placeholder.jpg" />
     <p> <b>Travis Lantz</b> <br>  Chemical and Systems Biology</p>
     <p> Financial Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <img src="/assets/images/2023-24/mentors/placeholder.jpg" />
     <p> <b>Khoi Tran</b> <br>  Chemistry</p>
     <p> Deputy Financial Officer, Symposium Chair </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/Isabel_Maria_Larus.jpg" />
+    <img src="/assets/images/2023-24/mentors/Isabel_Maria_Larus.jpg" />
     <p> <b>Isabel Larus</b> <br>  Chemical and Systems Biology</p>
     <p> Director of Mentor Recruitment </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/Cindy_Shi.jpg" />
+    <img src="/assets/images/2023-24/mentors/Cindy_Shi.jpg" />
     <p> <b>Cindy Shi</b> <br>  Material Science and Engineering</p>
     <p> Director of Mentor Recruitment </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/Joshua_Lui.jpg" />
+    <img src="/assets/images/2023-24/mentors/Joshua_Lui.jpg" />
     <p> <b>Joshua Lui</b> <br>  Chemistry</p>
     <p> Director of Mentor Training, Grant Writing Team </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <img src="/assets/images/2023-24/mentors/placeholder.jpg" />
     <p> <b>Nico Robalin</b> <br>  Chemistry</p>
     <p> Director of Student Recruitment, Grant Writing Team </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/anudeep_mangu.jpg" />
+    <img src="/assets/images/2023-24/mentors/anudeep_mangu.jpg" />
     <p> <b>Anudeep Mangu</b> <br> Material Science and Engineering  </p>
     <p> Student Opportunities Specialist, Grant Writing Team </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <img src="/assets/images/2023-24/mentors/placeholder.jpg" />
     <p> <b>Adrian Wackett</b> <br>  Geological Sciences</p>
     <p> Workshops Coordinator </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <img src="/assets/images/2023-24/mentors/placeholder.jpg" />
     <p> <b>Katherine Yan</b> <br>  Chemical Engineering</p>
     <p> Development Officer (internal), Grant Writing Team, Workshops Coordinator </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/amanda_wiggenhorn.jpg" />
+    <img src="/assets/images/2023-24/mentors/amanda_wiggenhorn.jpg" />
     <p> <b>Amanda Wiggenhorn</b> <br> Biology </p>
     <p> Development Officer (external)  </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/josephine_wong.jpg" />
+    <img src="/assets/images/2023-24/mentors/Josephine_Wong.jpg" />
     <p> <b>Josephine Wong</b> <br> Physics </p>
     <p> Communications & Website Officer, Grant Writing Team </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/louis_wang.jpg" />
+    <img src="/assets/images/2023-24/mentors/louis_wang.jpg" />
     <p> <b>Louis Wang</b> <br> Material Science and Engineering </p>
     <p> Outcomes Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <img src="/assets/images/2023-24/mentors/placeholder.jpg" />
     <p> <b>Joseph Kelly</b> <br> Chemistry </p>
     <p> Outcomes Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/Julia_Dressel.jpg" />
+    <img src="/assets/images/2023-24/mentors/Julia_Dressel.jpg" />
     <p> <b>Julia Dressel</b> <br>  Chemistry</p>
     <p> Outcomes Officer, Workshops Coordinator </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <img src="/assets/images/2023-24/mentors/placeholder.jpg" />
     <p> <b>Adithya Sriram</b> <br>  Physics</p>
     <p> Mentor </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <img src="/assets/images/2023-24/mentors/placeholder.jpg" />
     <p> <b>Aarushi Khandelwal</b> <br>  Applied Physics</p>
     <p> Mentor </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/placeholder.jpg" />
+    <img src="/assets/images/2023-24/mentors/placeholder.jpg" />
     <p> <b>Jasper Ainsworth</b> <br> Chemistry </p>
     <p> Mentor </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2022-23/mentors/hannah_rosenblatt.jpg" />
+    <img src="/assets/images/2023-24/mentors/hannah_rosenblatt.jpg" />
     <p> <b>Hannah Rosenblatt</b> <br> Developmental Biology </p>
     <p> Mentor </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/adam_potter.jpg" />
+    <p><b>Adam Potter</b><br>Mechanical Engineering </p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/anna_soper.jpg" />
+    <p><b>Anna Soper</b><br>Applied Physics</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/ashwin_kumar.jpg" />
+    <p><b>Ashwin Kumar</b><br>Biomedical Physics</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/cade_napier.jpg" />
+    <p><b>Cade Napier</b><br>Environmental Engineering</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/chijioke_mgbahurike.jpg" />
+    <p><b>Chijioke Mgbahurike</b><br>Computer Science/African and African American History</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/christina_lee.jpg" />
+    <p><b>Christina Lee</b><br>Biophysics</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/placeholder.jpg" />
+    <p><b>Connie Liou</b><br></p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/elizabeth_karas.jpg" />
+    <p><b>Elizabeth Karas</b><br>Chemical and Systems Biology</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/hind_abuzaid.jpg" />
+    <p><b>Hind Abuzaid</b><br>Developmental Biology</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/placeholder.jpg" />
+    <p><b>Iain Jung</b><br>Biology</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/placeholder.jpg" />
+    <p><b>Ishan Gaur</b><br>Electrical Engineering</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/jack_dinsmore.jpg" />
+    <p><b>Jack Dinsmore</b><br>Physics</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/jesus_maldonado.jpg" />
+    <p><b>Jesus Maldonado</b><br>Biology</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/placeholder.jpg" />
+    <p><b>Jinze Wu</b><br>Physics</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/john_shin.jpg" />
+    <p><b>John Shin</b><br>Chemical Engineering/Biochemistry</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/luke_zhao.jpg" />
+    <p><b>Luke  Zhao</b><br>Biology</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/michelle_tang.jpg" />
+    <p><b>Michelle Tang</b><br>Chemical and Systems Biology</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/placeholder.jpg" />
+    <p><b>Nathalie Hong</b><br>Chemistry</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/ocean_zhou.jpg" />
+    <p><b>Ocean Zhou</b><br>Applied Physics</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/peter_zhu.jpg" />
+    <p><b>Peter Zhu</b><br>Psychology</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/scott_berger.jpg" />
+    <p><b>Scott Berger</b><br>Biophysics </p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/soumya_chatterjee.jpg" />
+    <p><b>Soumya  Chatterjee</b><br>Computer Science</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/steven_fried.jpg" />
+    <p><b>Steven  Fried</b><br>Chemistry</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/tana_siboonruang.jpg" />
+    <p><b>Tana Siboonruang</b><br></p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/tony_zhang.jpg" />
+    <p><b>Tony Zhang</b><br>Physics</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/varun_dolia.jpg" />
+    <p><b>Varun Dolia</b><br>Materials Science and Engineering</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/wiley_yu.jpg" />
+    <p><b>Wiley Yu</b><br>Materials Science and Engineering</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/caroline_scheuing.jpg" />
+    <p><b>Caroline Scheuing</b><br>Molecular and Cellular Physiology</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/gabriel_amador.jpg" />
+    <p><b>Gabriel Amador</b><br>Developmental Biology</p>
+    <p>Mentor</p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2023-24/mentors/olivia_crocker.jpg" />
+    <p><b>Olivia Crocker</b><br>Genetics</p>
+    <p>Mentor</p>
 </div>
