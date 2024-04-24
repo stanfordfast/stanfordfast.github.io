@@ -16,7 +16,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "stanfordfast/stanfordfast.github.io"
 teaser                   : "/assets/images/teaser.png"
-logo                     : ![Stanford FAST logo]("/assets/images/logos/stanford_fast.png")
+logo                     : "/assets/images/logos/stanford_fast.png"
 masthead_title           : " "
 words_per_minute         : 200
 comments:
