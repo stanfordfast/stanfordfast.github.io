@@ -16,6 +16,8 @@ about:
     url: /about/
   - title: "Past Mentors"
     children:
+      - title: "2023-24"
+        url: /mentors/2023-24/
       - title: "2022-23"
         url: /mentors/2022-23/
       - title: "2021-22"
