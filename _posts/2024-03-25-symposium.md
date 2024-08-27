@@ -1,5 +1,5 @@
 ---
-title: "Symposium"
+title: "Symposium 2024"
 date: 2024-03-25
 layout: single
 classes: wide
@@ -8,6 +8,7 @@ categories:
 tags:
   - session
 header:
+  teaser: "/assets/images/2023-24/sessions/symposium/group.jpg"
 ---
 
 On March 25, 2024, we held the 8th annual Stanford FAST Symposium at Stanford! 
