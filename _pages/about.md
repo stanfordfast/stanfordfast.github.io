@@ -45,7 +45,7 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/placeholder.jpg" />
+    <img src="/assets/images/2024-25/mentors/nathalie_hong.jpg" />
     <p> <b>Nathalie Hong</b> <br> Chemistry </p>
     <p> Andrew Hill Deputy Program Officer, Grant Writing Team</p>
 </div>
@@ -57,7 +57,7 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/Cindy_Shi.jpg" />
+    <img src="/assets/images/2024-25/mentors/cindy_shi.jpg" />
     <p> <b>Cindy Shi</b> <br>  Material Science and Engineering</p>
     <p> James Lick Chief Program Officer </p>
 </div>
@@ -111,7 +111,7 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/placeholder.jpg" />
+    <img src="/assets/images/2024-25/mentors/lucy_wang.jpg" />
     <p> <b>Lucy Wang</b> <br> Material Science and Engineering </p>
     <p> Outcomes Officer </p>
 </div>
@@ -140,15 +140,76 @@ Feel free to contact us with any questions, comments, or concerns!
     <p> Science Fair Coordinator </p>
 </div>
 
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/luke_zhao.jpg" />
-    <p> <b>Luke Zhao</b> <br>  Biology</p>
-    <p> Science Fair Coordinator </p>
+<div style="text-align: center;">
+    <div class="mentor-card" style="text-align: center;">
+        <img src="/assets/images/2024-25/mentors/luke_zhao.jpg" />
+        <p> <b>Luke Zhao</b> <br>  Biology</p>
+        <p> Science Fair Coordinator </p>
+    </div>
+    
+    <div class="mentor-card" style="text-align: center;">
+        <img src="/assets/images/2024-25/mentors/nora_enright.jpg" />
+        <p> <b>Nora Enright</b> <br>  Bioengineering</p>
+        <p> Partnership Development Officer </p>
+    </div>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/nora_enright.jpg" />
-    <p> <b>Nora Enright</b> <br>  Bioengineering</p>
-    <p> Partnership Development Officer </p>
+    <img src="/assets/images/2024-25/mentors/ammar_ratnani.jpg" />
+    <p> <b>Ammar Ratnani</b> <br>  Computer Science</p>
+    <p> Mentor </p>
 </div>
 
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2024-25/mentors/placeholder.jpg" />
+    <p> <b>Jinze Wu</b> <br>  Physics</p>
+    <p> Mentor </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2024-25/mentors/placeholder.jpg" />
+    <p> <b>Gautham Ravipati</b> <br>  Electrical Engineering</p>
+    <p> Mentor </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2024-25/mentors/katherine_yan.jpg" />
+    <p> <b>Katherine Yan</b> <br>  Chemical Engineering</p>
+    <p> Mentor </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2024-25/mentors/nico_robalin.jpg" />
+    <p> <b>Nico Robalin</b> <br>  Chemistry</p>
+    <p> Mentor </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2024-25/mentors/nitya_thakkar.jpg" />
+    <p> <b>Nitya Thakker</b> <br>  Computer Science</p>
+    <p> Mentor </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2024-25/mentors/placeholder.jpg" />
+    <p> <b>Sai Varanasi</b> <br>  Chemistry</p>
+    <p> Mentor </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2024-25/mentors/scott_berger.jpg" />
+    <p> <b>Scott Berger</b> <br>  Biophysics</p>
+    <p> Mentor </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2024-25/mentors/wiley_yu.jpg" />
+    <p> <b>Wiley Yu</b> <br>  Materials Science and Engineering</p>
+    <p> Mentor </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2024-25/mentors/placeholder.jpg" />
+    <p> <b>Ziping Ye</b> <br>  Health Policy</p>
+    <p> Mentor </p>
+</div>

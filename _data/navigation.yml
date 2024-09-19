@@ -8,6 +8,8 @@ main:
     url: /parents/
   - title: "For Students"
     url: /students/
+  - title: "For Mentors"
+    url: /mentors/
   - title: "Media"
     url: /media/
 
@@ -16,6 +18,8 @@ about:
     url: /about/
   - title: "Past Mentors"
     children:
+      - title: "2024-25"
+        url: /mentors/2024-25/
       - title: "2023-24"
         url: /mentors/2023-24/
       - title: "2022-23"
@@ -57,15 +61,22 @@ for-students:
   - title: "Applying To College"
     url: /resources/college/
 
+for-mentors:
+  - title: "For Mentors"
+
 archive:
+  - title: "2024-25"
+    children:
+
+      - title: "Session 0"
+        url: /2024-25/session-0/
+      - title: "Session 1"
+        url: /2024-25/session-1/
+      - title: "Session 2"
+        url: /2024-25/session-2/
   - title: "2023-24"
     children:
-      - title: "Session 0"
-        url: /2023-24/session-0/
-      - title: "Session 1"
-        url: /2023-24/session-1/
-      - title: "Session 2"
-        url: /2023-24/session-2/
+
       - title: "Session 3"
         url: /2023-24/session-3/
       - title: "Session 4"
