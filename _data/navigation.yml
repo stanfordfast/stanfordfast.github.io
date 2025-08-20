@@ -42,6 +42,8 @@ for-parents:
 for-students:
   - title: "Surveys"
     url: /students/
+  - title: "Remind Classroom"
+    url: /remind/
   - title: "Workshops"
     children:
       - title: "2024-25"
