@@ -44,3 +44,12 @@ Formatting:
 - add media
 - fix github authentication issue
 - add SUNet/password protected mentors only page?
+
+2025-26
+
+- add student recruitment pamphlets (all 3 languages) and infographic
+    - [2025-2026](https://drive.google.com/drive/folders/1CW8CA4aBONg2wTZ9tMvjg3L4mnKLSLwK?usp=drive_link) pamphlets
+- update leadership team + room leaders (after room leaders are formalized)
+- Remind classroom link (in the Welcome to FAST [slides](https://docs.google.com/presentation/d/1mzZQMghGGibl8GGZqx_iSiNkdIzFi9nbFsTkBng-RyQ/edit?slide=id.g37b30b9ad7e_1_116#slide=id.g37b30b9ad7e_1_116))
+- FAST google calendar (use view only link)
+- Instagram handles for both AH and JL

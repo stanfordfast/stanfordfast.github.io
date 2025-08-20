@@ -13,4 +13,5 @@ sidebar:
 Join the FAST Remind classroom to receive updates on sessions! Download the Remind app and use your email or phone number to join using the class codes. 
 
 James Lick: @jlfast2526
+
 Andrew Hill: @ahfast25
