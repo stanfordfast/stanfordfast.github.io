@@ -11,205 +11,109 @@ FAST is a program in which Stanford University graduate students mentor Future A
 Students from Andrew P. Hill, James Lick, and Independence high schools in East San Jose meet with Stanford students every other Saturday during the academic year. Between September and April, they design and execute original scientific research spanning topics in chemistry, biology, physics, engineering, and data science. Every spring, FAST students present their work at local and state science fairs and also at an annual symposium at Stanford University.
 
 Feel free to contact us with any questions, comments, or concerns!
-- For general questions, email Leslie (lchan8[at]stanford.edu) or Hope (htleng[at]stanford.edu).
-- For questions about joining FAST, email Caroline (cesc[at]stanford.edu) or Elizabeth (ekaras[at]stanford.edu).
-- For questions about the website, email Sofia (sofiaw[at]stanford.edu).
+- For general questions, email Shahadat (shahadat[at]stanford.edu) or Nathalie (nhong98[at]stanford.edu).
+- For questions about joining FAST, email Caroline (cesc[at]stanford.edu) or Andre (andregu[at]stanford.edu).
+- For questions about the website, email Jessica (jessluu[at]stanford.edu).
 
-**Note**: FAST is currently only open to students enrolled in the East San Jose High School District. If you attend an ESUHSD school that is not Andrew Hill, James Lick, or Independence, and would like to join FAST, please email Leslie. We are unable to accommdate any students outside of ESUHSD, sorry!
+**Note**: FAST is currently only open to students enrolled in the East San Jose High School District. If you attend an ESUHSD school that is not Andrew Hill, James Lick, or Independence, and would like to join FAST, please email Shahadat. We are unable to accommdate any students outside of ESUHSD, sorry!
 
 # Stanford Mentors 2024-25
 
 <div style="text-align: center;">
     <div class="mentor-card" style="text-align: center;">
-	<img src="/assets/images/2024-25/mentors/Leslie_Chan.jpg" />
-    	<p> <b>Leslie Chan</b> <br> Immunology </p>
-        <p> President </p>
+	<img src="/assets/images/2025-26/mentors/shahadat_rahman.jpg" />
+    	<p> <b>Shahadat Rahman</b> <br> Developmental Biology </p>
+        <p> President, Chief Party Officer, Student Opportunity Specialist </p>
     </div>
     <div class="mentor-card" style="text-align: center;">
-    	<img src="/assets/images/2024-25/mentors/Hope_Leng.jpg" />
-    	<p> <b>Hope Leng</b> <br> Bioengineering </p>
+    	<img src="/assets/images/2025-26/mentors/nathalie_hong.jpg" />
+    	<p> <b>Nathalie Hong</b> <br> Chemistry </p>
         <p> Chief Operations Officer </p>
     </div>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/shahadat_raman.jpeg" />
-    <p> <b>Shahadat Rahman</b> <br> Developmental Biology </p>
-    <p> Andrew Hill Chief Program Officer </p>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/john_shin.jpg" />
-    <p><b>John Shin</b><br>Chemical Engineering/Biochemistry</p>
-    <p> Andrew Hill Chief Program Officer </p>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/nathalie_hong.jpg" />
-    <p> <b>Nathalie Hong</b> <br> Chemistry </p>
-    <p> Andrew Hill Deputy Program Officer, Grant Writing Team</p>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/christina_lee.jpg" />
-    <p><b>Christina Lee</b><br>Biophysics</p>
-    <p> James Lick Chief Program Officer, Grant Writing Team </p>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/cindy_shi.jpg" />
+    <img src="/assets/images/2025-26/mentors/cindy_shi.jpg" />
     <p> <b>Cindy Shi</b> <br>  Material Science and Engineering</p>
+    <p> Chief Compliance Officer, Financial Officer </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2025-26/mentors/Jessica_Luu.jpg" />
+    <p> <b>Jessica Luu</b> <br> Chemistry </p>
+    <p> Andrew Hill Chief Program Officer, Communications and Website Officer </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2025-26/mentors/placeholder.jpg" />
+    <p> <b>Oliver Wu</b> <br>  Chemistry</p>
+    <p> Andrew Hill Chief Program Officer </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2025-26/mentors/cade_napier.jpg" />
+    <p><b>Cade Napier</b><br>Environmental Engineering</p>
     <p> James Lick Chief Program Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/cade_napier.jpg" />
-    <p><b>Cade Napier</b><br>Environmental Engineering</p>
-    <p> James Lick Deputy Program Officer </p>
+    <img src="/assets/images/2025-26/mentors/placeholder.jpg" />
+    <p> <b>Daniel Howell</b> <br>  Chemistry </p>
+    <p> James Lick Chief Program Officer, Workshops Coordinator </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/Josephine_Wong.jpg" />
-    <p> <b>Josephine Wong</b> <br> Physics </p>
-    <p> Chief Compliance Officer, Outcomes Officer, Grant Writing Team </p>
+    <img src="/assets/images/2025-26/mentors/placeholder.jpg" />
+    <p> <b>Sai Gautham Ravipati</b> <br> Electrical Engineering</p>
+    <p> Andrew Hill Deputy Program Officer, Symposium Chair</p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/jenna_ahn.jpg" />
-    <p> <b>Jenna Ahn</b> <br>  Chemical Engineering</p>
-    <p> Financial Officer, Student Opportunity Specialist </p>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/elizabeth_karas.jpg" />
-    <p> <b>Elizabeth Karas</b> <br>  Chemical and Systems Biology</p>
-    <p> Director of Mentor Recruitment, Director of Student Recruitment </p>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/caroline_scheuing.jpg" />
+    <img src="/assets/images/2025-26/mentors/caroline_scheuing.jpg" />
     <p> <b>Caroline Scheuing</b> <br>  Molecular and Cellular Physiology</p>
-    <p> Director of Mentor Recruitment, Director of Student Recruitment </p>
+    <p> Mentor Recruitment Director, Student Recruitment Officer</p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/Joshua_Lui.jpg" />
-    <p> <b>Joshua Lui</b> <br>  Chemistry</p>
-    <p> Director of Mentor Training  </p>
+    <img src="/assets/images/2025-26/mentors/placeholder.jpg" />
+    <p> <b>Sai Varanasi</b> <br> Chemical Engineering</p>
+    <p> Deputy Financial Officer, Workshops Coordinator  </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/Edward_Mu.jpg" />
-    <p> <b>Edward Mu</b> <br>  Chemistry</p>
-    <p> Workshops Coordinator, Symposium Chair, Partnership Development Officer </p>
+    <img src="/assets/images/2025-26/mentors/Leslie_Chan.jpg" />
+    <p> <b>Leslie Chan</b> <br>  Immunology</p>
+    <p> Development Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/Sofia_Wyetzner.jpg" />
-    <p> <b>Sofia Wyetzner</b> <br>  Computer Science</p>
-    <p> Development Officer, Communications & Website Officer </p>
+    <img src="/assets/images/2025-26/mentors/placeholder.jpg" />
+    <p> <b>Andre Gu</b> <br> Bioengineering</p>
+    <p> Mentor Recruitment Director </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/lucy_wang.jpg" />
+    <img src="/assets/images/2025-26/mentors/lucy_wang.jpg" />
     <p> <b>Lucy Wang</b> <br> Material Science and Engineering </p>
     <p> Outcomes Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/Julia_Dressel.jpg" />
+    <img src="/assets/images/2025-26/mentors/Julia_Dressel.jpg" />
     <p> <b>Julia Dressel</b> <br>  Chemistry</p>
     <p> Outcomes Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/sarah_wu.jpg" />
+    <img src="/assets/images/2025-26/mentors/sarah_wu.jpg" />
     <p> <b>Sarah Wu</b> <br>  Psychology</p>
     <p> Outcomes Officer </p>
 </div>
 
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/hind_abuzaid.jpg" />
-    <p> <b>Hind Abuzaid</b> <br>  Pathology</p>
-    <p> Science Fair Coordinator, Symposium Chair </p>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/placeholder.jpg" />
-    <p> <b>Iain Jung</b> <br>  Biology</p>
-    <p> Science Fair Coordinator </p>
-</div>
-
 <div style="text-align: center;">
     <div class="mentor-card" style="text-align: center;">
-        <img src="/assets/images/2024-25/mentors/luke_zhao.jpg" />
+        <img src="/assets/images/2025-26/mentors/luke_zhao.jpg" />
         <p> <b>Luke Zhao</b> <br>  Biology</p>
         <p> Science Fair Coordinator </p>
     </div>
-    
-    <div class="mentor-card" style="text-align: center;">
-        <img src="/assets/images/2024-25/mentors/nora_enright.jpg" />
-        <p> <b>Nora Enright</b> <br>  Bioengineering</p>
-        <p> Partnership Development Officer </p>
-    </div>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/ammar_ratnani.jpg" />
-    <p> <b>Ammar Ratnani</b> <br>  Computer Science</p>
-    <p> Mentor </p>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/placeholder.jpg" />
-    <p> <b>Jinze Wu</b> <br>  Physics</p>
-    <p> Mentor </p>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/placeholder.jpg" />
-    <p> <b>Gautham Ravipati</b> <br>  Electrical Engineering</p>
-    <p> Mentor </p>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/katherine_yan.jpg" />
-    <p> <b>Katherine Yan</b> <br>  Chemical Engineering</p>
-    <p> Mentor </p>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/nico_robalin.jpg" />
-    <p> <b>Nico Robalin</b> <br>  Chemistry</p>
-    <p> Mentor </p>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/nitya_thakkar.jpg" />
-    <p> <b>Nitya Thakker</b> <br>  Computer Science</p>
-    <p> Mentor </p>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/placeholder.jpg" />
-    <p> <b>Sai Varanasi</b> <br>  Chemistry</p>
-    <p> Mentor </p>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/scott_berger.jpg" />
-    <p> <b>Scott Berger</b> <br>  Biophysics</p>
-    <p> Mentor </p>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/wiley_yu.jpg" />
-    <p> <b>Wiley Yu</b> <br>  Materials Science and Engineering</p>
-    <p> Mentor </p>
-</div>
-
-<div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2024-25/mentors/placeholder.jpg" />
-    <p> <b>Ziping Ye</b> <br>  Health Policy</p>
-    <p> Mentor </p>
 </div>
