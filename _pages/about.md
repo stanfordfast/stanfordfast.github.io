@@ -21,7 +21,7 @@ Feel free to contact us with any questions, comments, or concerns!
 
 <div style="text-align: center;">
     <div class="mentor-card" style="text-align: center;">
-	<img src="/assets/images/2025-26/mentors/shahadat_rahman.jpg" />
+	<img src="\assets\images\2025-26\mentors\shahadat_rahman.jpeg" />
     	<p> <b>Shahadat Rahman</b> <br> Developmental Biology </p>
         <p> President, Chief Party Officer, Student Opportunity Specialist </p>
     </div>
