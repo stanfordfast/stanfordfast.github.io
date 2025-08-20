@@ -44,6 +44,8 @@ for-students:
     url: /students/
   - title: "Workshops"
     children:
+      - title: "2024-25"
+        url: /workshops/2024-25/
       - title: "2023-24"
         url: /workshops/2023-24/
       - title: "2022-23"
