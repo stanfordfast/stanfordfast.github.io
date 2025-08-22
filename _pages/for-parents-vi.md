@@ -42,6 +42,8 @@ Chúng tôi mong các em thực hành (với các học sinh IB) những điều
 Chúng tôi rất mong muốn các phụ huynh đến tham dự và hỗ trợ các em tại
 hội chợ khoa học Sciencepalooza và Stanford FAST trong tương lai gần!
 
+<h1>Andrew Hill High School</h1>
 <embed src="\assets\documents\2025-26_AH_FAST_RecruitmentPacket_VIET.pdf" type="application/pdf" width="800px" height="600px" />
 
+<h1>James Lick High School</h1>
 <embed src="\assets\documents\2025-26_JL_FAST_RecruitmentPacket_VIET.pdf" type="application/pdf" width="800px" height="600px" />
