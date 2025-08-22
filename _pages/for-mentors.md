@@ -7,7 +7,7 @@ classes: wide
 
 <div>If you are interested in mentoring, please fill out this <a href="https://forms.gle/r463DX2bgJaL4kKTA">interest survey</a>!</div>
 <p align="center">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZDS5inGdd5MLsbWHZk7HCtmKF_FA_OWGmtPyG3muzdVRnYg/viewform?embedded=true" width="640" height="2305" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZDS5inGdd5MLsbWHZk7HCtmKF_FA_OWGmtPyG3muzdVRnYg/viewform?embedded=true" width="640" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </p>
 
 <br>
