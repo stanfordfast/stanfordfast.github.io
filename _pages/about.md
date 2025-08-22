@@ -17,7 +17,7 @@ Feel free to contact us with any questions, comments, or concerns!
 
 **Note**: FAST is currently only open to students enrolled in the East San Jose High School District. If you attend an ESUHSD school that is not Andrew Hill, James Lick, or Independence, and would like to join FAST, please email Shahadat. We are unable to accommdate any students outside of ESUHSD, sorry!
 
-# Stanford Mentors 2024-25
+# Stanford Mentors 2025-26
 
 <div style="text-align: center;">
     <div class="mentor-card" style="text-align: center;">
@@ -110,10 +110,8 @@ Feel free to contact us with any questions, comments, or concerns!
     <p> Outcomes Officer </p>
 </div>
 
-<div style="text-align: center;">
-    <div class="mentor-card" style="text-align: center;">
+<div class="mentor-card" style="text-align: center;">
         <img src="/assets/images/2025-26/mentors/luke_zhao.jpg" />
         <p> <b>Luke Zhao</b> <br>  Biology</p>
         <p> Science Fair Coordinator </p>
-    </div>
 </div>
