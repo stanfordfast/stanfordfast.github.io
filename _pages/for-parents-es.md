@@ -40,4 +40,5 @@ Esperamos que los equipos de estudiantes o personas (para los alumnos del IB) a:
 Los padres son bienvenidos, tanto en el caso de la Sciencepalooza y el
 simposio FAST en Stanford y su participación sería muy apreciada!
 
+<h1>Andrew Hill High School</h1>
 <embed src="\assets\documents\2025-26_AH_FAST_RecruitmentPacket_SPAN.pdf" type="application/pdf" width="800px" height="600px" />
