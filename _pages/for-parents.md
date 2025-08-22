@@ -38,3 +38,7 @@ We expect teams of students or individuals (for IB students) to:
  
 Parents are welcome at both the Sciencepalooza event and the Stanford
 FAST symposium and your participation would be much appreciated!
+
+<embed src="\assets\documents\2025-26_AH_FAST_RecruitmentPacket_ENG.pdf" type="application/pdf" width="800px" height="600px" />
+
+<embed src="\assets\documents\2025-26_JL_FAST_RecruitmentPacket_ENG.pdf" type="application/pdf" width="800px" height="600px" />
