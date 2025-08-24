@@ -57,13 +57,13 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2025-26/mentors/placeholder.jpg" />
+    <img src="/assets/images/2025-26/mentors/Daniel_Howell.jpg" />
     <p> <b>Daniel Howell</b> <br>  Chemistry </p>
     <p> James Lick Chief Program Officer, Workshops Coordinator </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2025-26/mentors/placeholder.jpg" />
+    <img src="/assets/images/2025-26/mentors/Sai_Gautham.png" />
     <p> <b>Sai Gautham Ravipati</b> <br> Electrical Engineering</p>
     <p> Andrew Hill Deputy Program Officer, Symposium Chair</p>
 </div>
@@ -75,7 +75,7 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2025-26/mentors/placeholder.jpg" />
+    <img src="/assets/images/2025-26/mentors/Sai_Varanasi.jpg" />
     <p> <b>Sai Varanasi</b> <br> Chemical Engineering</p>
     <p> Deputy Financial Officer, Workshops Coordinator  </p>
 </div>
@@ -87,7 +87,7 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2025-26/mentors/placeholder.jpg" />
+    <img src="/assets/images/2025-26/mentors/Andre_Gu.jpg" />
     <p> <b>Andre Gu</b> <br> Bioengineering</p>
     <p> Mentor Recruitment Director </p>
 </div>
