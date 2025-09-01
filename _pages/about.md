@@ -45,7 +45,7 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2025-26/mentors/placeholder.jpg" />
+    <img src="/assets/images/2025-26/mentors/Oliver_Wu.jpg" />
     <p> <b>Oliver Wu</b> <br>  Chemistry</p>
     <p> Andrew Hill Chief Program Officer </p>
 </div>
