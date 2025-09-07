@@ -67,11 +67,16 @@ for-students:
 
 for-mentors:
   - title: "For Mentors"
+  - title: "Reinbursements"
+    url: /reimbursements/
+  - title: "Google Drive"
+    url: /drive/
+  - title: "Communications"
+    url: /communications/
 
 archive:
   - title: "2024-25"
     children:
-
       - title: "Session 0"
         url: /2024-25/session-0/
       - title: "Session 1"

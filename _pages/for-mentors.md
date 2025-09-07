@@ -3,6 +3,9 @@ title: For Mentors
 permalink: /mentors/
 layout: single
 classes: wide
+sidebar:
+  title: "Resources"
+  nav: "for-mentors"
 ---
 
 <div>If you are interested in mentoring, please fill out this <a href="https://forms.gle/r463DX2bgJaL4kKTA">interest survey</a>!</div>
@@ -12,7 +15,7 @@ classes: wide
 
 <br>
 
-<div>Request <a href="https://forms.gle/nJXruXra2bmy6vFT9">reimbursements</a></div>
+<div>Request <a href="https://docs.google.com/forms/d/e/1FAIpQLSej56LkrtH92UMcPJjC701VHcOlKnoFtY7XVhV752fObrmcew/viewform">reimbursements</a></div>
 
 <br>
 
