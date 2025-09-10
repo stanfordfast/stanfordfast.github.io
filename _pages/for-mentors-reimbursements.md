@@ -8,9 +8,9 @@ sidebar:
   nav: "for-mentors"
 ---
 
-##Reimbursements
+# Reimbursements
 
-<div>Request <a href="https://docs.google.com/forms/d/e/1FAIpQLSej56LkrtH92UMcPJjC701VHcOlKnoFtY7XVhV752fObrmcew/viewform">reimbursements! Please fill out this form.</a></div>
+<div>Request <a href="https://docs.google.com/forms/d/e/1FAIpQLSej56LkrtH92UMcPJjC701VHcOlKnoFtY7XVhV752fObrmcew/viewform">reimbursements!</a>  Please fill out this form.</div>
 <p align="center">
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSej56LkrtH92UMcPJjC701VHcOlKnoFtY7XVhV752fObrmcew/viewform" width="640" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </p>
