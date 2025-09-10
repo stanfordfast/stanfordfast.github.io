@@ -46,6 +46,8 @@ for-students:
     url: /remind/
   - title: "Workshops"
     children:
+      - title: "2025-26"
+        url: /workshops/2025-26/
       - title: "2024-25"
         url: /workshops/2024-25/
       - title: "2023-24"
@@ -69,8 +71,6 @@ for-mentors:
   - title: "For Mentors"
   - title: "Reinbursements"
     url: /mentors/reimbursements/
-  - title: "Google Drive"
-    url: /mentors/drive/
   - title: "Communications"
     url: /mentors/communications/
 
