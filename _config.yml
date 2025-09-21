@@ -97,9 +97,15 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:fast.stanford@gmail.com"
-    - label: "Instagram"
+    - label: "Stanford FAST Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/stanfordfast"
+      url: "https://instagram.com/stanfordfast/"
+    - label: "Andrew Hill FAST Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/ahillfast/"
+    - label: "James Lick FAST Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/jlhsfast/"
 
 # Site Footer
 footer:
