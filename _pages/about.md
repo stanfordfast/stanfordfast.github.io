@@ -115,3 +115,15 @@ Feel free to contact us with any questions, comments, or concerns!
         <p> <b>Luke Zhao</b> <br>  Biology</p>
         <p> Science Fair Coordinator </p>
 </div>
+
+<div class="mentor-card" style="text-align: center;">
+        <img src="/assets/images/2025-26/mentors/Dom_Pizzarella.jpg" />
+        <p> <b>Dom Pizzarella</b> <br>  Bioengineering</p>
+        <p> Mentor </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+        <img src="/assets/images/2025-26/mentors/Punya_Gupta.jpg" />
+        <p> <b>Punya Gupta</b> <br>  Cancer Biology</p>
+        <p> Mentor </p>
+</div>
