@@ -13,7 +13,7 @@ header:
 
 On April 12, 2022, we held the 6th Annual FAST Symposium at Stanford!
 
-![group](/assets/images/2021-22/symposium/group.jpg)
+![Group photo of all students and mentors at FAST Symposium](/assets/images/2021-22/symposium/group.jpg)
 
 This was our first in-person symposium in three years and it was a huge success! 
 FAST had 73 mentors and 34 high school students complete a total of 22 projects,
@@ -66,5 +66,5 @@ And we are also grateful to the stanford faculty judges, faculty speakers, and l
 
 <p align="center"> See you next year! </p>
 
-![campus](/assets/images/2021-22/symposium/campus.jpg)
+![Students walking on Stanford Campus](/assets/images/2021-22/symposium/campus.jpg)
 
