@@ -17,22 +17,22 @@ the Stanford School of Engineering,
 and the Stanford Haas Center for Public Service.
 
 <p align="center">
-    <img src="/assets/images/funding_logos/StanfordBiosciences.png" width="40%" style="margin-right: 2em;" /> 
-    <img src="/assets/images/funding_logos/StanfordVPGE.png" width="40%" />
+    <img src="/assets/images/funding_logos/StanfordBiosciences.png" width="40%" style="margin-right: 2em;" alt="Logo for Stanford Biosciences" />
+    <img src="/assets/images/funding_logos/StanfordVPGE.png" width="40%" alt="Logo for Stanford Office of the Vice Provost for Graduate Education (VPGE)" />
     <br> <br>
-    <img src="/assets/images/funding_logos/StanfordSoE.png" width="35%" style="margin-right: 2em;" /> 
-    <img src="/assets/images/funding_logos/StanfordOfficeofCommunityEngagement.png" width="50%" />
+    <img src="/assets/images/funding_logos/StanfordSoE.png" width="35%" style="margin-right: 2em;" alt="Logo for Stanford School of Engineering" />
+    <img src="/assets/images/funding_logos/StanfordOfficeofCommunityEngagement.png" width="50%" alt="Logo for Stanford Office of Community Engagement" />
     <br> <br>
-    <img src="/assets/images/funding_logos/StanfordHaas.png" width="40%" style="margin-right: 2em;" /> 
-    <img src="/assets/images/funding_logos/StanfordGraduateStudentCouncil.png" width="40%" /> 
+    <img src="/assets/images/funding_logos/StanfordHaas.png" width="40%" style="margin-right: 2em;" alt="Logo for Stanford Haas Center for Public Service" />
+    <img src="/assets/images/funding_logos/StanfordGraduateStudentCouncil.png" width="40%" alt="Logo for Stanford Graduate Student Council" />
     <br> <br>
-    <img src="/assets/images/funding_logos/TomKat.jpeg" width="40%" /> 
+    <img src="/assets/images/funding_logos/TomKat.jpeg" width="40%" alt="Logo for TomKat Center for Sustainable Energy" />
 </p>
 
 Our high school students are supported by
-the Grant Imahara STEAM Foundation 
+the Grant Imahara STEAM Foundation
 and other supporters of the <a href="https://www.fastprogram.org" target="_blank" style="color:inherit">Future Advancers of Science and Technology Non-Profit Organization</a>.
 
 <p align="center">
-    <img src="/assets/images/funding_logos/GrantImaharaSTEAMFoundation.png" width="50%" />
+    <img src="/assets/images/funding_logos/GrantImaharaSTEAMFoundation.png" width="50%" alt="Logo for Grant Imahara STEAM Foundation" />
 </p>
