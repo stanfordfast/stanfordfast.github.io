@@ -9,9 +9,9 @@ sidebar:
 ---
 
 <p align="center">
-    <img src="/assets/images/for_parents/1.jpg" width="32%" />
-    <img src="/assets/images/for_parents/2.jpg" width="32%" />
-    <img src="/assets/images/for_parents/3.jpg" width="32%" />
+    <img src="/assets/images/for_parents/1.jpg" width="32%" alt="Student working in front of a fume hood" />
+    <img src="/assets/images/for_parents/2.jpg" width="32%" alt="Student presenting a poster at a science fair" />
+    <img src="/assets/images/for_parents/3.jpg" width="32%" alt="Two students sitting at a table discussing a document" />
 </p>
 
 Gracias por apoyar a su hijo en participar en FAST! Nuestro objetivo

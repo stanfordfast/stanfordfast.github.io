@@ -14,7 +14,7 @@ header:
 On March 25, 2024, we held the 8th annual Stanford FAST Symposium at Stanford! 
 
 <p align='center'>
-    <img src="/assets/images/2023-24/sessions/symposium/group.jpg" width="100%">
+    <img src="/assets/images/2023-24/sessions/symposium/group.jpg" alt="Students and mentors posing in an auditorium" width="100%" />
 </p>
 
 This year, FAST had 53 mentors and 67 high school students work on a total of 39 projects, spanning the disciplines of biology, chemistry, physics, engineering, and data science. Some project examples include testing the effectiveness of different sunscreen brands, to investigating the viability of fruit bacteria for making cheese, to assessing the effect of urea on plant growth, to building a particle accelerator to explore quantum behavior! At the poster session, the students got a chance to present their work.
