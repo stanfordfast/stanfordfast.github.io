@@ -26,7 +26,7 @@ Feel free to contact us with any questions, comments, or concerns!
         <p> President </p>
     </div>
     <div class="mentor-card" style="text-align: center;">
-    	<img src="\assets\images\2026-27\mentors\placeholder.jpg" alt="Headshot of Jessica Luu, Chief Operations Officer" />
+    	<img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Jessica Luu, Chief Operations Officer" />
     	<p> <b>Jessica Luu</b> <br> Chemistry </p>
         <p> Chief Operations Officer </p>
     </div>
