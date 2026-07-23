@@ -1,9 +1,9 @@
-name: Push Beta Branch to Other Repo
+name: Push Draft Branch to Other Repo
 
 on:
   push:
     branches:
-      - beta # Triggers whenever commits are pushed to the 'beta' branch
+      - draft # Triggers whenever commits are pushed to the 'draft' branch
 
 jobs:
   push-to-another-repo:
@@ -19,5 +19,5 @@ jobs:
         with:
           target_repo_token: ${{ secrets.BETA_REPO_TOKEN }}
           destination_repository: "stanfordfast/beta-website"
-          source_branch: "beta"
+          source_branch: "draft"
           destination_branch: "master" # Change if you want it named differently in the destination
