@@ -12,14 +12,19 @@ jobs:
       - name: Checkout Source Code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetch all history so tags and full branch history copy over
+          fetch-depth: 0 # Fetch full history so commits copy over properly
 
       - name: Push to Destination Repository
-        uses: repo-sync/github-sync@v2
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          target_repo_token: ${{ secrets.BETA_REPO_TOKEN }}
-          destination_repository: "stanfordfast/beta-website"
-          source_branch: "draft"
-          destination_branch: "master" # Change if you want it named differently in the destination
+          DEST_TOKEN: ${{ secrets.BETA_REPO_TOKEN }}
+        run: |
+          # 1. Configure Git identity (required for git operations)
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 2. Add destination repo as a remote using the Personal Access Token (PAT)
+          git remote add destination "https://x-access-token:${DEST_TOKEN}@github.com/stanfordfast/beta-website.git"
+          
+          # 3. Push the local 'draft' branch to the remote 'master' branch
+          # Use --force if you need to overwrite the destination branch
+          git push --force destination draft:master
