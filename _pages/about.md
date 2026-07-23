@@ -63,9 +63,9 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/cathy_zhu.jpeg" alt="Headshot of Cathy Zhu, Financial Officer, Mentor Recruitment Officer" />
+    <img src="/assets/images/2026-27/mentors/cathy_zhu.jpeg" alt="Headshot of Cathy Zhu, Financial Officer, Mentor Training Officer, Recruitment Officer" />
     <p> <b>Cathy Zhu</b> <br> Chemistry </p>
-    <p> Financial Officer, Mentor Recruitment Officer </p>
+    <p> Financial Officer, Mentor Training Officer, Recruitment Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
@@ -75,14 +75,20 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/caroline_elizabeth_scheuing.png" alt="Headshot of Caroline Scheuing, Mentor Recruitment Officer" />
+    <img src="/assets/images/2026-27/mentors/caroline_elizabeth_scheuing.png" alt="Headshot of Caroline Scheuing, Mentor Training Officer, Mentor Recruitment Officer" />
     <p> <b>Caroline Scheuing</b> <br> Molecular and Cellular Physiology </p>
-    <p> Mentor Recruitment Officer </p>
+    <p> Mentor Training Officer, Mentor Recruitment Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
     <img src="/assets/images/2026-27/mentors/mrinalni_iyer.jpeg" alt="Headshot of Mrinalni Iyer, Outcomes Officer" />
     <p> <b>Mrinalni Iyer</b> <br> Chemistry </p>
+    <p> Outcomes Officer </p>
+</div>
+
+<div class="mentor-card" style="text-align: center;">
+    <img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Samuel Bobick, Science Fair Coordinator" />
+    <p> <b>Samuel Bobick</b> <br> Civil and Environmental Engineering </p>
     <p> Outcomes Officer </p>
 </div>
 
