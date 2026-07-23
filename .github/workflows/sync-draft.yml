@@ -16,6 +16,8 @@ jobs:
 
       - name: Push to Destination Repository
         uses: repo-sync/github-sync@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           target_repo_token: ${{ secrets.BETA_REPO_TOKEN }}
           destination_repository: "stanfordfast/beta-website"
