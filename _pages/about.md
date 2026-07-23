@@ -21,91 +21,91 @@ Feel free to contact us with any questions, comments, or concerns!
 
 <div style="text-align: center;">
     <div class="mentor-card" style="text-align: center;">
-	<img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Daniel Howell, President" />
+	<img src="{{ site.baseurl }}/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Daniel Howell, President" />
     	<p> <b>Daniel Howell</b> <br> Chemistry </p>
         <p> President </p>
     </div>
     <div class="mentor-card" style="text-align: center;">
-    	<img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Jessica Luu, Chief Operations Officer" />
+    	<img src="{{ site.baseurl }}/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Jessica Luu, Chief Operations Officer" />
     	<p> <b>Jessica Luu</b> <br> Chemistry </p>
         <p> Chief Operations Officer </p>
     </div>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Wiley Yu, Chief Compliance Officer, Communications & Website Officer" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Wiley Yu, Chief Compliance Officer, Communications & Website Officer" />
     <p> <b>Wiley Yu</b> <br> Material Science and Engineering </p>
     <p> Chief Compliance Officer, Communications & Website Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/jamar_lewis_kittling.jpeg" alt="Headshot of Jamar Kittling, Andrew Hill Chief Program Officer, Workshop Coordinator" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/jamar_lewis_kittling.jpeg" alt="Headshot of Jamar Kittling, Andrew Hill Chief Program Officer, Workshop Coordinator" />
     <p> <b>Jamar Lewis Kittling</b> <br> Physics </p>
     <p> Andrew Hill Chief Program Officer, Workshop Coordinator </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/andre_gu.jpeg" alt="Headshot of Andre Gu, Andrew Hill Chief Program Officer, Partnership Development Officer & Student Opportunities Specialist" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/andre_gu.jpeg" alt="Headshot of Andre Gu, Andrew Hill Chief Program Officer, Partnership Development Officer & Student Opportunities Specialist" />
     <p> <b>Andre Gu</b> <br> Bioengineering </p>
     <p> Andrew Hill Chief Program Officer, Partnership Development Officer & Student Opportunities Specialist </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Dom Pizzarella, James Lick Chief Program Officer" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Dom Pizzarella, James Lick Chief Program Officer" />
     <p><b>Dom Pizzarella</b><br> Bioengineering </p>
     <p> James Lick Chief Program Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/ebubechi_nwaubani.jpeg" alt="Headshot of Ebubechi Nwaubani, James Lick Chief Program Officer" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/ebubechi_nwaubani.jpeg" alt="Headshot of Ebubechi Nwaubani, James Lick Chief Program Officer" />
     <p> <b>Ebubechi Nwaubani</b> <br> Chemistry </p>
     <p> James Lick Chief Program Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/cathy_zhu.jpeg" alt="Headshot of Cathy Zhu, Financial Officer, Mentor Training Officer, Recruitment Officer" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/cathy_zhu.jpeg" alt="Headshot of Cathy Zhu, Financial Officer, Mentor Training Officer, Recruitment Officer" />
     <p> <b>Cathy Zhu</b> <br> Chemistry </p>
     <p> Financial Officer, Mentor Training Officer, Recruitment Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/jihyun_in.jpg" alt="Headshot of Jihyun In, Development Officer, Workshop Coordinator" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/jihyun_in.jpg" alt="Headshot of Jihyun In, Development Officer, Workshop Coordinator" />
     <p> <b>Jihyun In</b> <br> BioPhysics </p>
     <p> Development Officer, Workshop Coordinator </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/caroline_elizabeth_scheuing.png" alt="Headshot of Caroline Scheuing, Mentor Training Officer, Mentor Recruitment Officer" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/caroline_elizabeth_scheuing.png" alt="Headshot of Caroline Scheuing, Mentor Training Officer, Mentor Recruitment Officer" />
     <p> <b>Caroline Scheuing</b> <br> Molecular and Cellular Physiology </p>
     <p> Mentor Training Officer, Mentor Recruitment Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/mrinalni_iyer.jpeg" alt="Headshot of Mrinalni Iyer, Outcomes Officer" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/mrinalni_iyer.jpeg" alt="Headshot of Mrinalni Iyer, Outcomes Officer" />
     <p> <b>Mrinalni Iyer</b> <br> Chemistry </p>
     <p> Outcomes Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Samuel Bobick, Science Fair Coordinator" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Samuel Bobick, Science Fair Coordinator" />
     <p> <b>Samuel Bobick</b> <br> Civil and Environmental Engineering </p>
     <p> Outcomes Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/karime_hernandez_perez.jpg" alt="Headshot of Karime Hernandez Perez, Workshop Coordinator" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/karime_hernandez_perez.jpg" alt="Headshot of Karime Hernandez Perez, Workshop Coordinator" />
     <p> <b>Karime Hernandez Perez</b> <br> Chemistry </p>
     <p> Workshop Coordinator </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/andy_fong.jpeg" alt="Headshot of Andy Fong, Workshop Coordinator" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/andy_fong.jpeg" alt="Headshot of Andy Fong, Workshop Coordinator" />
     <p> <b>Andy Fong</b> <br> Chemical Engineering </p>
     <p> Workshop Coordinator </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Luke Zhao, Science Fair Coordinator" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Luke Zhao, Science Fair Coordinator" />
     <p> <b>Luke Zhao</b> <br> Computer Science </p>
     <p> Science Fair Coordinator </p>
 </div>
