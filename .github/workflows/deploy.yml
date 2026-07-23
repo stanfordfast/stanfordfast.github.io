@@ -3,7 +3,7 @@ name: Deploy Jekyll Site
 on:
   push:
     branches:
-      - main  # Change this to your default branch name if different
+      - master  # Change this to your default branch name if different
 
 permissions:
   contents: read
