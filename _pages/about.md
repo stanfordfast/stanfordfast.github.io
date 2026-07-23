@@ -75,7 +75,7 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/caroline_elizabeth_scheuing.png" alt="Headshot of Caroline Scheuing, Mentor Training Officer, Mentor Recruitment Officer" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/caroline_elizabeth_scheuing.jpeg" alt="Headshot of Caroline Scheuing, Mentor Training Officer, Mentor Recruitment Officer" />
     <p> <b>Caroline Scheuing</b> <br> Molecular and Cellular Physiology </p>
     <p> Mentor Training Officer, Mentor Recruitment Officer </p>
 </div>
