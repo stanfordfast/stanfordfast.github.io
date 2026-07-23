@@ -11,11 +11,11 @@ FAST is a program in which Stanford University graduate students mentor Future A
 Students from Andrew P. Hill, James Lick, and Independence high schools in East San Jose meet with Stanford students every other Saturday during the academic year. Between September and April, they design and execute original scientific research spanning topics in chemistry, biology, physics, engineering, and data science. Every spring, FAST students present their work at local and state science fairs and also at an annual symposium at Stanford University.
 
 Feel free to contact us with any questions, comments, or concerns!
-- For general questions, email Shahadat (shahadat[at]stanford.edu) or Nathalie (nhong98[at]stanford.edu).
-- For questions about joining FAST, email Caroline (cesc[at]stanford.edu) or Andre (andregu[at]stanford.edu).
-- For questions about the website, email Jessica (jessluu[at]stanford.edu).
+- For general questions, email Daniel (dkhowell[at]stanford.edu) or Jessica (jessluu[at]stanford.edu).
+- For questions about joining FAST, email Caroline (cesc[at]stanford.edu) or Cathy (cathyz1[at]stanford.edu).
+- For questions about the website, email Wiley (wileyyu[at]stanford.edu).
 
-**Note**: FAST is currently only open to students enrolled in the East San Jose High School District. If you attend an ESUHSD school that is not Andrew Hill, James Lick, or Independence, and would like to join FAST, please email Shahadat. We are unable to accommdate any students outside of ESUHSD, sorry!
+**Note**: FAST is currently only open to students enrolled in the East San Jose High School District. If you attend an ESUHSD school that is not Andrew Hill, James Lick, or Independence, and would like to join FAST, please email Daniel. We are unable to accommdate any students outside of ESUHSD, sorry!
 
 # Stanford Mentors 2026-27
 
@@ -34,18 +34,18 @@ Feel free to contact us with any questions, comments, or concerns!
 
 <div class="mentor-card" style="text-align: center;">
     <img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Wiley Yu, Chief Compliance Officer, Communications & Website Officer" />
-    <p> <b>Wiley Yu</b> <br>  Material Science and Engineering</p>
+    <p> <b>Wiley Yu</b> <br> Material Science and Engineering </p>
     <p> Chief Compliance Officer, Communications & Website Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Jamar Kittling, Andrew Hill Chief Program Officer, Workshop Coordinator" />
+    <img src="/assets/images/2026-27/mentors/jamar_lewis_kittling.jpeg" alt="Headshot of Jamar Kittling, Andrew Hill Chief Program Officer, Workshop Coordinator" />
     <p> <b>Jamar Lewis Kittling</b> <br> Physics </p>
     <p> Andrew Hill Chief Program Officer, Workshop Coordinator </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Andre Gu, Andrew Hill Chief Program Officer, Partnership Development Officer & Student Opportunities Specialist" />
+    <img src="/assets/images/2026-27/mentors/andre_gu.jpeg" alt="Headshot of Andre Gu, Andrew Hill Chief Program Officer, Partnership Development Officer & Student Opportunities Specialist" />
     <p> <b>Andre Gu</b> <br> Bioengineering </p>
     <p> Andrew Hill Chief Program Officer, Partnership Development Officer & Student Opportunities Specialist </p>
 </div>
@@ -57,43 +57,43 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Ebubechi Nwaubani, James Lick Chief Program Officer" />
-    <p> <b>Ebubechi Nwaubani</b> <br>  Chemistry </p>
+    <img src="/assets/images/2026-27/mentors/ebubechi_nwaubani.jpeg" alt="Headshot of Ebubechi Nwaubani, James Lick Chief Program Officer" />
+    <p> <b>Ebubechi Nwaubani</b> <br> Chemistry </p>
     <p> James Lick Chief Program Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Cathy Zhu, Financial Officer, Mentor Recruitment Officer" />
+    <img src="/assets/images/2026-27/mentors/cathy_zhu.jpeg" alt="Headshot of Cathy Zhu, Financial Officer, Mentor Recruitment Officer" />
     <p> <b>Cathy Zhu</b> <br> Chemistry </p>
     <p> Financial Officer, Mentor Recruitment Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Jihyun In, Development Officer, Workshop Coordinator" />
+    <img src="/assets/images/2026-27/mentors/jihyun_in.jpg" alt="Headshot of Jihyun In, Development Officer, Workshop Coordinator" />
     <p> <b>Jihyun In</b> <br> BioPhysics </p>
     <p> Development Officer, Workshop Coordinator </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Caroline Scheuing, Mentor Recruitment Officer" />
+    <img src="/assets/images/2026-27/mentors/caroline_elizabeth_scheuing.png" alt="Headshot of Caroline Scheuing, Mentor Recruitment Officer" />
     <p> <b>Caroline Scheuing</b> <br> Molecular and Cellular Physiology </p>
     <p> Mentor Recruitment Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Mrinalni Iyer, Outcomes Officer" />
+    <img src="/assets/images/2026-27/mentors/mrinalni_iyer.jpeg" alt="Headshot of Mrinalni Iyer, Outcomes Officer" />
     <p> <b>Mrinalni Iyer</b> <br> Chemistry </p>
     <p> Outcomes Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Karime Hernandez Perez, Workshop Coordinator" />
+    <img src="/assets/images/2026-27/mentors/karime_hernandez_perez.jpg" alt="Headshot of Karime Hernandez Perez, Workshop Coordinator" />
     <p> <b>Karime Hernandez Perez</b> <br> Chemistry </p>
     <p> Workshop Coordinator </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Andy Fong, Workshop Coordinator" />
+    <img src="/assets/images/2026-27/mentors/andy_fong.jpeg" alt="Headshot of Andy Fong, Workshop Coordinator" />
     <p> <b>Andy Fong</b> <br> Chemical Engineering </p>
     <p> Workshop Coordinator </p>
 </div>
