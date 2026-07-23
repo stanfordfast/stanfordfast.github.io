@@ -71,6 +71,8 @@ for-students:
 
 for-mentors:
   - title: "For Mentors"
+  - title: "New Mentor Information"
+    url: /mentors/new-mentors-info/
   - title: "Reinbursements"
     url: /mentors/purchases-reimbursements/
   - title: "Communications"
