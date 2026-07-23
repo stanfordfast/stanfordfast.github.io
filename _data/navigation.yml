@@ -19,7 +19,7 @@ about:
   - title: "Past Mentors"
     children:
       - title: "2025-26"
-        url: {{ site.baseurl }}/mentors/2025-26/
+        url: /mentors/2025-26/
       - title: "2024-25"
         url: /mentors/2024-25/
       - title: "2023-24"
