@@ -31,9 +31,14 @@ jobs:
         run: |
           # 1. Extract the repository name (e.g., transforms "owner/my-repo" into "my-repo")
           REPO_NAME=$(echo "${{ github.repository }}" | cut -d'/' -f2)
-          
-          # 2. Build the site, forcing Jekyll to use the correct repository name as the subpath
-          bundle exec jekyll build --baseurl "/$REPO_NAME"
+
+          if [[ "$REPO_NAME" =~ \.github\.io$ ]]; then
+            echo "Root user/org page detected. Building with default baseurl from _config.yml..."
+            bundle exec jekyll build
+          else
+            echo "Project page detected. Overriding baseurl to /${REPO_NAME}..."
+            bundle exec jekyll build --baseurl "/$REPO_NAME"
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
