@@ -4,14 +4,15 @@ layout: archive
 
 {{ content }}
 
-{% assign sorted_categories = site.categories | sort: 0 | reverse %}
+{% assign sorted_categories = site.categories | sort | reverse %}
 
 <ul class="taxonomy__index">
   {% for category in sorted_categories %}
     {% assign category_name = category | first %}
+    {% assign category_posts = category | last %}
       <li>
         <a href="#{{ category_name | slugify }}">
-          <strong>{{ category_name }}</strong> <span class="taxonomy__count">{{ category[1].size }}</span>
+          <strong>{{ category_name }}</strong> <span class="taxonomy__count">{{ category_posts.size }}</span>
         </a>
       </li>
   {% endfor %}
