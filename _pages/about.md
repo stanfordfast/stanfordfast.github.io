@@ -63,9 +63,9 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/cathy_zhu.jpeg" alt="Headshot of Cathy Zhu, Financial Officer, Mentor Training Officer, Recruitment Officer" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/cathy_zhu.jpeg" alt="Headshot of Cathy Zhu, Financial Officer, Mentor Training Officer, Mentor Recruitment Officer" />
     <p> <b>Cathy Zhu</b> <br> Chemistry </p>
-    <p> Financial Officer, Mentor Training Officer, Recruitment Officer </p>
+    <p> Financial Officer, Mentor Training Officer, Mentor Recruitment Officer </p>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
@@ -87,7 +87,7 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Samuel Bobick, Science Fair Coordinator" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/samuel_bobick.png" alt="Headshot of Samuel Bobick, Science Fair Coordinator" />
     <p> <b>Samuel Bobick</b> <br> Civil and Environmental Engineering </p>
     <p> Outcomes Officer </p>
 </div>
