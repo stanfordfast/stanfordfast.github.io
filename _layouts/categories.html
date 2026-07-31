@@ -8,9 +8,10 @@ layout: archive
 
 <ul class="taxonomy__index">
   {% for category in sorted_categories %}
+    {% assign category_name = category | first %}
       <li>
-        <a href="#{{ category[0] | slugify }}">
-          <strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ category[1].size }}</span>
+        <a href="#{{ category_name | slugify }}">
+          <strong>{{ category_name }}</strong> <span class="taxonomy__count">{{ category[1].size }}</span>
         </a>
       </li>
   {% endfor %}
