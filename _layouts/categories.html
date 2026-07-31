@@ -4,10 +4,10 @@ layout: archive
 
 {{ content }}
 
-{% assign sorted_categories = site.categories | sort: "name" | reverse %}
+{% assign sorted_categories = site.categories | sort %}
 
 <ul class="taxonomy__index">
-  {% for category in sorted_categories %}
+  {% for category in sorted_categories reversed %}
     {% assign category_name = category | first %}
     {% assign category_posts = category | last %}
       <li>
@@ -19,7 +19,7 @@ layout: archive
 </ul>
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-{% for category in sorted_categories %}
+{% for category in sorted_categories reversed %}
   {% assign category_name = category | first %}
   {% assign category_posts = category | last | sort: "date" | reverse %}
 
