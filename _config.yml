@@ -15,7 +15,7 @@ description              : "Website for Stanford FAST"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "stanfordfast/stanfordfast.github.io"
-teaser                   : "/assets/images/teaser.png"
+teaser                   : "/assets/images/teaser2.jpg"
 logo                     : "/assets/images/logos/stanford_fast.png"
 masthead_title           : " "
 words_per_minute         : 200
