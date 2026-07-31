@@ -4,7 +4,7 @@ layout: archive
 
 {{ content }}
 
-{% assign sorted_categories = site.categories | sort | reverse %}
+{% assign sorted_categories = site.categories | sort: 0 | reverse %}
 
 <ul class="taxonomy__index">
   {% for category in sorted_categories %}
