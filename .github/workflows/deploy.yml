@@ -34,10 +34,10 @@ jobs:
 
           if [[ "$REPO_NAME" =~ \.github\.io$ ]]; then
             echo "Root user/org page detected. Building with default baseurl from _config.yml..."
-            bundle exec jekyll build --trace
+            bundle exec jekyll build
           else
             echo "Project page detected. Overriding baseurl to /${REPO_NAME}..."
-            bundle exec jekyll build --baseurl "/$REPO_NAME" --trace
+            bundle exec jekyll build --baseurl "/$REPO_NAME"
           fi
 
       - name: Upload artifact
