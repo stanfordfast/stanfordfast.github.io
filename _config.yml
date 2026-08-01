@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "contrast"
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Stanford FAST"
 name                     : "Stanford FAST"
 description              : "Website for Stanford FAST"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
