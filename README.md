@@ -42,6 +42,10 @@ Formatting:
 
 ![layout examples](docs/screenshot-layouts.png)
 
+Beta Website:
+
+I set it up so that any changes pushed to the draft branch automatically gets pushed to the stanfordfast/beta-website repo. It can be accessed at [https://fast.stanford.edu/beta-website](https://fast.stanford.edu/beta-website). You may need to update the BETA_REPO_TOKEN in the repo secrets if it breaks. The token needs to have read/write access to the beta-website repo.
+
 ## To-dos
 
 - ~~add logos to funding page~~
