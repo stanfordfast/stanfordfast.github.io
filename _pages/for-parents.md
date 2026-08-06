@@ -40,8 +40,8 @@ Parents are welcome at both the Sciencepalooza event and the Stanford
 FAST symposium and your participation would be much appreciated!
 
 <h1>Andrew Hill High School</h1>
-<embed src="\assets\documents\2025-26_AH_FAST_RecruitmentPacket_ENG.pdf" type="application/pdf" width="800px" height="600px" />
+<embed src="{{ site.baseurl }}/assets/documents/2025-2026/2025-26_AH_FAST_RecruitmentPacket_ENG.pdf" type="application/pdf" width="800px" height="600px" />
 
 <br>
-<h1>James Lick High School</h1>
-<embed src="\assets\documents\2025-26_JL_FAST_RecruitmentPacket_ENG.pdf" type="application/pdf" width="800px" height="600px" />
+<h1>Mt. Pleasant High School</h1>
+<embed src="{{ site.baseurl }}/assets/documents/2026-2027/2026_2027_MtP_FAST_RecruitmentPacket_ENG.pdf" type="application/pdf" width="800px" height="600px" />
