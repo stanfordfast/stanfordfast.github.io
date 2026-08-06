@@ -26,7 +26,7 @@ layout: archive
 
   <section id="{{ category_name | slugify | downcase }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ category_name }}</h2>
-    <div class="entries-{{ entries_layout }}">
+    <div class="entries-{{ entries_layout }}" style="overflow: auto;">
       {% for post in category_posts %}
         {% include archive-single.html type=entries_layout %}
       {% endfor %}
