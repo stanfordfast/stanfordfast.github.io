@@ -21,19 +21,19 @@ Feel free to contact us with any questions, comments, or concerns!
 
 <div style="text-align: center;">
     <div class="mentor-card" style="text-align: center;">
-	<img src="{{ site.baseurl }}/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Daniel Howell, President" />
+	<img src="{{ site.baseurl }}/assets/images/2026-27/mentors/Daniel_Howell.jpg" alt="Headshot of Daniel Howell, President" />
     	<p> <b>Daniel Howell</b> <br> Chemistry </p>
         <p> President </p>
     </div>
     <div class="mentor-card" style="text-align: center;">
-    	<img src="{{ site.baseurl }}/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Jessica Luu, Chief Operations Officer" />
+    	<img src="{{ site.baseurl }}/assets/images/2026-27/mentors/Jessica_Luu.jpg" alt="Headshot of Jessica Luu, Chief Operations Officer" />
     	<p> <b>Jessica Luu</b> <br> Chemistry </p>
         <p> Chief Operations Officer </p>
     </div>
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Wiley Yu, Chief Compliance Officer, Communications & Website Officer" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/wiley_yu.jpg" alt="Headshot of Wiley Yu, Chief Compliance Officer, Communications & Website Officer" />
     <p> <b>Wiley Yu</b> <br> Material Science and Engineering </p>
     <p> Chief Compliance Officer, Communications & Website Officer </p>
 </div>
@@ -51,7 +51,7 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Dom Pizzarella, James Lick Chief Program Officer" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/Dom_Pizzarella.JPG" alt="Headshot of Dom Pizzarella, James Lick Chief Program Officer" />
     <p><b>Dom Pizzarella</b><br> Bioengineering </p>
     <p> James Lick Chief Program Officer </p>
 </div>
@@ -105,7 +105,7 @@ Feel free to contact us with any questions, comments, or concerns!
 </div>
 
 <div class="mentor-card" style="text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/placeholder.jpg" alt="Headshot of Luke Zhao, Science Fair Coordinator" />
+    <img src="{{ site.baseurl }}/assets/images/2026-27/mentors/luke_zhao.jpg" alt="Headshot of Luke Zhao, Science Fair Coordinator" />
     <p> <b>Luke Zhao</b> <br> Computer Science </p>
     <p> Science Fair Coordinator </p>
 </div>
