@@ -10,7 +10,9 @@ sidebar:
 
 Get important communication via our [Slack](https://stanfordfast.slack.com/), Remind, and email listserv (stanford-fast@googlegroups.com).
 
-## Remind Classroom 2025-2026
+## Remind Classroom 2026-2027
 Join the FAST [Remind classroom](https://www.remind.com/landing) to receive updates on sessions! Download the Remind app and use your email or phone number to join using the class codes.
 
-Under construction!
+Mt. Pleasant: @mpfast2627
+
+Andrew Hill: @ahfast2627

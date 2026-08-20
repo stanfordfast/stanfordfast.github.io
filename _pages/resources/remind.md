@@ -12,5 +12,7 @@ sidebar:
 
 Join the FAST Remind classroom to receive updates on sessions! Download the Remind app and use your email or phone number to join using the class codes. 
 
+Mt. Pleasant: @mpfast2627
 
-Under construction!
+Andrew Hill: @ahfast2627
+
