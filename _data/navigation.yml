@@ -18,6 +18,8 @@ about:
     url: /about/
   - title: "Past Mentors"
     children:
+      - title: "2025-26"
+        url: /mentors/2025-26/
       - title: "2024-25"
         url: /mentors/2024-25/
       - title: "2023-24"
@@ -69,6 +71,9 @@ for-students:
 
 for-mentors:
   - title: "For Mentors"
+    url: /mentors/
+  - title: "New Mentor Information"
+    url: /mentors/new-mentors-info/
   - title: "Reinbursements"
     url: /mentors/purchases-reimbursements/
   - title: "Communications"

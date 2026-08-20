@@ -1,0 +1,31 @@
+name: Push Draft Branch to Other Repo
+
+on:
+  push:
+    branches:
+      - draft # Triggers whenever commits are pushed to the 'draft' branch
+
+jobs:
+  push-to-another-repo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Source Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch full history so commits copy over properly
+          persist-credentials: false
+
+      - name: Push to Destination Repository
+        env:
+          DEST_TOKEN: ${{ secrets.BETA_REPO_TOKEN }}
+        run: |
+          # 1. Configure Git identity (required for git operations)
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 2. Add destination repo as a remote using the Personal Access Token (PAT)
+          git remote add destination "https://x-access-token:${DEST_TOKEN}@github.com/stanfordfast/beta-website.git"
+          
+          # 3. Push the local 'draft' branch to the remote 'master' branch
+          # Use --force if you need to overwrite the destination branch
+          git push --force destination draft:master
