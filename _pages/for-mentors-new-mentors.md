@@ -10,11 +10,7 @@ sidebar:
 
 ## Interest Form
 
-If you are interested in mentoring, please fill out this [interest survey](https://docs.google.com/forms/d/e/1FAIpQLSctisehF-ArLvfEdIpV9Y3hODFDTMNz11xpUCTSfbLL3TzmsQ/viewform)!
-
-<p align="center">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSctisehF-ArLvfEdIpV9Y3hODFDTMNz11xpUCTSfbLL3TzmsQ/viewform?embedded=true" width="640" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-</p>
+If you are interested in mentoring, please fill out this [interest survey](https://docs.google.com/forms/d/e/1FAIpQLSctisehF-ArLvfEdIpV9Y3hODFDTMNz11xpUCTSfbLL3TzmsQ/viewform)! Please note which info session date you signed up for.
 
 ## Requirements for New Mentors
 
@@ -27,11 +23,16 @@ If you are participating as a mentor in FAST, you **must** complete a Live Scan 
 Once the Live Scan is submitted, please submit [this form](https://app.smartsheet.com/b/form/fb47d4cec4f54a41874be9d6807b623a) to Stanford and [this form](https://forms.gle/DyqrdfMNGPc2GFvH7) for our bookkeeping.
 
 
-### 2. Complete Mentor Training
+### 2. ESUHSD Volunteer Form
+
+Please fill out the volunteer form for the appropriate school and submit it along with a photo of your ID to the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdGRhCekqxFjc2kmEyiaTclxA4eJ7eDFapHZaSrL-Rt4qS3Yw/viewform?usp=dialog). The forms can be found [here](https://drive.google.com/drive/folders/1IucQ4fkn8kDoRi4cJRGiM8SnSnChnIya?usp=sharing).
+
+
+### 3. Complete Mentor Training
 
 Dates TBD!
 
 
-### 3. STARS Course: WWM-1000-WEB Working with Minors at Stanford
+### 4. STARS Course: WWM-1000-WEB Working with Minors at Stanford
 
 This course also needs to be completed. It can be found in Axess > STARS > CATALOG > Search Catalog > WWM-1000-WEB in the search bar.
