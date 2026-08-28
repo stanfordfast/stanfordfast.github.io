@@ -12,10 +12,6 @@ sidebar:
 
 If you are interested in mentoring, please fill out this [interest survey](https://docs.google.com/forms/d/e/1FAIpQLSctisehF-ArLvfEdIpV9Y3hODFDTMNz11xpUCTSfbLL3TzmsQ/viewform)!
 
-<p align="center">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSctisehF-ArLvfEdIpV9Y3hODFDTMNz11xpUCTSfbLL3TzmsQ/viewform?embedded=true" width="640" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-</p>
-
 ## Requirements for New Mentors
 
 ### 1. Live Scan Background Check
