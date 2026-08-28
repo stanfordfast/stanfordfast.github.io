@@ -10,7 +10,7 @@ sidebar:
 
 ## Interest Form
 
-If you are interested in mentoring, please fill out this [interest survey](https://docs.google.com/forms/d/e/1FAIpQLSctisehF-ArLvfEdIpV9Y3hODFDTMNz11xpUCTSfbLL3TzmsQ/viewform)!
+If you are interested in mentoring, please fill out this [interest survey](https://docs.google.com/forms/d/e/1FAIpQLSctisehF-ArLvfEdIpV9Y3hODFDTMNz11xpUCTSfbLL3TzmsQ/viewform)! Please note which info session date you signed up for.
 
 ## Requirements for New Mentors
 
@@ -25,7 +25,7 @@ Once the Live Scan is submitted, please submit [this form](https://app.smartshee
 
 ### 2. ESUHSD Volunteer Form
 
-Please fill out the volunteer form for the appropriate school and submit it along with a photo of your ID to the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdGRhCekqxFjc2kmEyiaTclxA4eJ7eDFapHZaSrL-Rt4qS3Yw/viewform?usp=dialog). The appropriate forms can be found [here](https://drive.google.com/drive/folders/1IucQ4fkn8kDoRi4cJRGiM8SnSnChnIya?usp=sharing).
+Please fill out the volunteer form for the appropriate school and submit it along with a photo of your ID to the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdGRhCekqxFjc2kmEyiaTclxA4eJ7eDFapHZaSrL-Rt4qS3Yw/viewform?usp=dialog). The forms can be found [here](https://drive.google.com/drive/folders/1IucQ4fkn8kDoRi4cJRGiM8SnSnChnIya?usp=sharing).
 
 
 ### 3. Complete Mentor Training
