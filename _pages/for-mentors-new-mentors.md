@@ -18,9 +18,11 @@ If you are interested in mentoring, please fill out this [interest survey](https
 
 > Stanford's policy for [Protection of Minors](https://cardinalatwork.stanford.edu/workplace-essentials/policies/protection-minors) requires that anyone working directly with, supervising, chaperoning, or otherwise overseeing minors (individuals under 18 years of age) in Stanford-sponsored programs or activities must complete a Live Scan background check.
 
-If you are participating as a mentor in FAST, you **must** complete a Live Scan background check. A few times a year the university offers free Live Scan events, but it is very sporadic. A list of Live Scan locations nearby can be found [here](https://oag.ca.gov/fingerprints/locations?county=Santa+Clara). The nearest one to Stanford is the [UPS Store in Town and Country](https://oag.ca.gov/fingerprints/locations/ups-store-6105).
+If you are participating as a mentor in FAST, you **must** complete a Live Scan background check. To start, please submit [this form](https://forms.gle/DyqrdfMNGPc2GFvH7) for us to initiate the Live Scan process with Stanford and get you the necessary paperwork. This should happen within a week of submission, but please email me (Wiley) if it takes longer.
 
-Once the Live Scan is submitted, please submit [this form](https://app.smartsheet.com/b/form/fb47d4cec4f54a41874be9d6807b623a) to Stanford and [this form](https://forms.gle/DyqrdfMNGPc2GFvH7) for our bookkeeping.
+Once you have the forms, you need to go in-person and get fingerprinted. A few times a year the university offers free Live Scan events, but it is very sporadic. A list of Live Scan locations nearby can be found [here](https://oag.ca.gov/fingerprints/locations?county=Santa+Clara). The nearest one to Stanford is the [Postal Annex at Tressider](https://postalannexstanford.com/#hours).
+
+Once the Live Scan is submitted, please submit [this form](https://app.smartsheet.com/b/form/fb47d4cec4f54a41874be9d6807b623a) to Stanford.
 
 
 ### 2. ESUHSD Volunteer Form
@@ -30,7 +32,12 @@ Please fill out the volunteer form for the appropriate school and submit it alon
 
 ### 3. Complete Mentor Training
 
-Dates TBD!
+| Date | Time | Location
+| --- | --- | --- |
+| 10/5/26 | 6:15 PM - 7:30 PM | TBD |
+| 10/12/26 | 6:15 PM - 7:30 PM | TBD |
+| 10/20/26 | 6:15 PM - 7:30 PM | TBD |
+| 10/28/26 | 6:15 PM - 7:30 PM | TBD |
 
 
 ### 4. STARS Course: WWM-1000-WEB Working with Minors at Stanford
