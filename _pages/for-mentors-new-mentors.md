@@ -33,11 +33,11 @@ Please fill out the volunteer form for the appropriate school and submit it alon
 ### 3. Complete Mentor Training
 
 | Date | Time | Location
-| --- | --- | --- |
-| 10/5/26 | 6:15 PM - 7:30 PM | TBD |
-| 10/12/26 | 6:15 PM - 7:30 PM | TBD |
-| 10/20/26 | 6:15 PM - 7:30 PM | TBD |
-| 10/28/26 | 6:15 PM - 7:30 PM | TBD |
+| --- | :---: | :---: |
+| 10/5/26 | 6:15 PM - 7:30 PM | LKSC Room 306 |
+| 10/12/26 | 6:15 PM - 7:30 PM | LKSC Room 306 |
+| 10/20/26 | 6:15 PM - 7:30 PM | LKSC Room 306 |
+| 10/28/26 | 6:15 PM - 7:30 PM | LKSC Room 306 |
 
 
 ### 4. STARS Course: WWM-1000-WEB Working with Minors at Stanford
