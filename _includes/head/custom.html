@@ -2,4 +2,13 @@
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
+<style>
+    {% if page.header.text_outline %}
+        .page__title {
+            -webkit-text-stroke: 2px black;
+            paint-order: stroke fill;
+        }
+    {% endif %}
+</style>
+
 <!-- end custom head snippets -->
