@@ -48,6 +48,8 @@ for-students:
     url: /remind/
   - title: "Workshops"
     children:
+      - title: "2026-27"
+        url: /workshops/2026-27/
       - title: "2025-26"
         url: /workshops/2025-26/
       - title: "2024-25"
