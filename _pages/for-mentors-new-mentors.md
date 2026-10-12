@@ -26,9 +26,7 @@ If you are participating as a mentor in FAST, you **must** complete a Live Scan 
 
 Once you have the forms, you need to go in-person and get fingerprinted. A few times a year the university offers free Live Scan events, but it is very sporadic. A list of Live Scan locations nearby can be found [here](https://oag.ca.gov/fingerprints/locations?county=Santa+Clara). The nearest one to Stanford is the [Postal Annex at Tressider](https://postalannexstanford.com/#hours).
 
-** Once the Live Scan is submitted, please submit [this form](https://app.smartsheet.com/b/form/fb47d4cec4f54a41874be9d6807b623a) to Stanford. **
-
-
+**Once the Live Scan is submitted, please submit [this form](https://app.smartsheet.com/b/form/fb47d4cec4f54a41874be9d6807b623a) to Stanford.**
 
 ### 3. Complete Mentor Training
 
@@ -38,7 +36,6 @@ Once you have the forms, you need to go in-person and get fingerprinted. A few t
 | 10/12/26 | 6:15 PM - 7:30 PM | LKSC Room 306 |
 | 10/20/26 | 6:15 PM - 7:30 PM | LKSC Room 306 |
 | 10/28/26 | 6:15 PM - 7:30 PM | LKSC Room 306 |
-
 
 ### 4. STARS Course: WWM-1000-WEB Working with Minors at Stanford
 
