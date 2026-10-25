@@ -16,4 +16,4 @@ Do you need to purchase items for your students' project? Please see our invento
 
 ## Reimbursement
 
-Made any purchases for FAST? Please fill out the [reimbursement form](https://docs.google.com/forms/d/e/1FAIpQLSdrjE1X99xETdRD5zwXB48pWlswqhidSnpi77LLwmY4F_KpqA/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSdrjE1X99xETdRD5zwXB48pWlswqhidSnpi77LLwmY4F_KpqA/viewform?usp=header). Note all the instructions at the top of the form!
+Made any purchases for FAST? Please fill out the [reimbursement form](https://docs.google.com/forms/d/e/1FAIpQLSdrjE1X99xETdRD5zwXB48pWlswqhidSnpi77LLwmY4F_KpqA/viewform?usp=header). Note all the instructions at the top of the form!
